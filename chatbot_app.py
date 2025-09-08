@@ -272,8 +272,14 @@ def init_session_state():
         st.session_state.chat_history = []
     if "recommendations" not in st.session_state:
         st.session_state.recommendations = []
+    if "contextual_recommendations" not in st.session_state:
+        st.session_state.contextual_recommendations = []
     if "message_input" not in st.session_state:
         st.session_state.message_input = ""
+    if "last_intent" not in st.session_state:
+        st.session_state.last_intent = ""
+    if "last_user_input" not in st.session_state:
+        st.session_state.last_user_input = ""
 
 def clean_markdown_text(text):
     """Remove markdown formatting from text"""
@@ -462,7 +468,7 @@ def chatbot_page():
     
     st.markdown("---")
     
-    # Clean chat history display
+    # Clean chat history display with contextual recommendations
     if st.session_state.chat_history:
         st.markdown('<div class="chat-container">', unsafe_allow_html=True)
         
@@ -489,6 +495,32 @@ def chatbot_page():
                     <div class="timestamp" style="margin-left: 10px;">{timestamp}</div>
                 </div>
                 ''', unsafe_allow_html=True)
+                
+                # Show contextual recommendations after bot response
+                if i == len(st.session_state.chat_history) - 1 and st.session_state.contextual_recommendations:
+                    st.markdown('''
+                    <div style="margin: 1rem 0; padding: 0 10px;">
+                        <div style="color: #667eea; font-weight: 600; font-size: 0.9rem; margin-bottom: 0.5rem;">
+                            💡 Pertanyaan lanjutan yang mungkin Anda butuhkan:
+                        </div>
+                    </div>
+                    ''', unsafe_allow_html=True)
+                    
+                    # Display contextual recommendations as compact buttons
+                    cols = st.columns(2)
+                    for idx, rec in enumerate(st.session_state.contextual_recommendations[:4]):
+                        col_index = idx % 2
+                        with cols[col_index]:
+                            if st.button(
+                                rec, 
+                                key=f"contextual_rec_{i}_{idx}", 
+                                use_container_width=True,
+                                help="Klik untuk melanjutkan dengan pertanyaan ini",
+                                type="secondary"
+                            ):
+                                st.session_state.message_input = rec
+                                process_user_message(rec, intent_classifier, database_handler, llm_handler)
+                                st.rerun()
         
         st.markdown('</div>', unsafe_allow_html=True)
     
@@ -569,6 +601,32 @@ def process_user_message(user_input, intent_classifier, database_handler, llm_ha
         
         # Add bot response to history
         st.session_state.chat_history.append({"role": "assistant", "content": response})
+        
+        # Generate contextual recommendations for next questions
+        if similarity_result["is_valid"]:
+            # Update session state with conversation context
+            st.session_state.last_intent = intent_result["intent"]
+            st.session_state.last_user_input = user_input
+            
+            # Generate contextual recommendations
+            try:
+                recommendation_engine = RecommendationEngine(".")
+                contextual_recs = recommendation_engine.get_contextual_recommendations(
+                    intent=intent_result["intent"],
+                    customer_id=customer_id,
+                    database_handler=database_handler,
+                    user_input=user_input,
+                    response_content=response
+                )
+                
+                # Update session state with contextual recommendations
+                st.session_state.contextual_recommendations = contextual_recs
+            except Exception as e:
+                logger.warning(f"Could not generate contextual recommendations: {str(e)}")
+                st.session_state.contextual_recommendations = []
+        else:
+            # Clear recommendations for invalid queries
+            st.session_state.contextual_recommendations = []
         
         # Show success indicator briefly
         st.success("✅ Respons berhasil dihasilkan!")
