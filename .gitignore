@@ -1,0 +1,10 @@
+# Exclude large model files and cache
+Model BERT/
+__pycache__/
+
+# Other common exclusions
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db

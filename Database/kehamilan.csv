@@ -1,0 +1,2 @@
+id_kehamilan,customer_id,tanggal_hpht,tanggal_hari_perkiraan_lahir,gravid,paritas,abortus,usia_kehamilan_awal,status_risiko,penyakit_penyerta,status_kehamilan
+KEH001,CUST001,2025-01-15,2025-10-22,2,1,0,8,"Normal","-","Sudah Melahirkan"

@@ -1,0 +1,4 @@
+id_suplemen,id_kunjungan,nama_suplemen,jumlah_tablet,catatan
+SUP001,ANC001,"Tablet Fe",30,"Diminum 1x sehari setelah makan"
+SUP002,ANC002,"Asam Folat",30,"Diminum pagi hari"
+SUP003,ANC003,"Tablet Fe",30,"Tetap rutin meski ada bengkak"

@@ -1,0 +1,813 @@
+text,intent
+Apa saja yang harus saya siapkan sebelum melahirkan?,panduan_persiapan_persalinan
+Tolong beri saya checklist persiapan persalinan,panduan_persiapan_persalinan
+Bagaimana persiapan mental menjelang lahiran?,panduan_persiapan_persalinan
+Perlengkapan bayi apa yang wajib dibawa ke rumah sakit?,panduan_persiapan_persalinan
+Bisakah kamu buatkan panduan persiapan lahiran normal?,panduan_persiapan_persalinan
+Kapan jadwal kontrol saya berikutnya?,reminder_kontrol_kehamilan
+Tolong ingatkan saya kapan harus ANC lagi,reminder_kontrol_kehamilan
+Kapan saya harus periksa kandungan lagi?,reminder_kontrol_kehamilan
+Jadwalkan kontrol kehamilan untuk minggu depan,reminder_kontrol_kehamilan
+Kapan jadwal kontrol terakhir saya?,reminder_kontrol_kehamilan
+Tolong catat tekanan darah saya hari ini 110/70,anc_tracker
+Cek catatan ANC saya minggu lalu,anc_tracker
+Saya mau lihat hasil kunjungan ANC terakhir,anc_tracker
+Tolong update berat badan kehamilan saya jadi 62 kg,anc_tracker
+Saya mau tahu usia kandungan saya sekarang,anc_tracker
+Apakah saya sudah dapat imunisasi TT2?,imunisasi_tracker
+Tolong jadwalkan imunisasi berikutnya,imunisasi_tracker
+Kapan terakhir saya imunisasi?,imunisasi_tracker
+Saya mau lihat catatan imunisasi saya,imunisasi_tracker
+"Saya belum imunisasi COVID-19, jadwalkan dong",imunisasi_tracker
+Apakah normal kalau kaki bengkak saat hamil?,pertanyaan_umum_kehamilan
+Bolehkah ibu hamil minum kopi setiap hari?,pertanyaan_umum_kehamilan
+Berapa jam ideal tidur saat hamil?,pertanyaan_umum_kehamilan
+Makanan apa yang bagus untuk ibu hamil?,pertanyaan_umum_kehamilan
+Bagaimana cara mengatasi mual di trimester pertama?,pertanyaan_umum_kehamilan
+Tolong tampilkan riwayat persalinan saya,riwayat_persalinan
+Kapan saya melahirkan anak pertama?,riwayat_persalinan
+Saya mau lihat detail persalinan sebelumnya,riwayat_persalinan
+Ada komplikasi pada persalinan terakhir saya?,riwayat_persalinan
+Berapa berat bayi saya saat lahir terakhir?,riwayat_persalinan
+Tolong tampilkan catatan suplemen yang pernah saya konsumsi,riwayat_suplemen_kehamilan
+Saya mau lihat riwayat minum tablet Fe,riwayat_suplemen_kehamilan
+Kapan terakhir saya minum asam folat?,riwayat_suplemen_kehamilan
+Tolong catat saya minum vitamin C minggu ini,riwayat_suplemen_kehamilan
+Apa saja suplemen yang saya minum selama kehamilan ini?,riwayat_suplemen_kehamilan
+Checklist persiapan lahiran di bidan,panduan_persiapan_persalinan
+Apa saja dokumen penting yang harus dibawa saat melahirkan?,panduan_persiapan_persalinan
+Persiapan darurat jika melahirkan lebih cepat dari HPL,panduan_persiapan_persalinan
+Bagaimana cara mempersiapkan pasangan untuk persalinan?,panduan_persiapan_persalinan
+Tolong kirim tips persiapan lahiran di musim hujan,panduan_persiapan_persalinan
+Kapan jadwal kontrol terakhir sebelum HPL saya?,reminder_kontrol_kehamilan
+Saya ingin tahu jadwal kontrol kandungan sesuai usia kehamilan,reminder_kontrol_kehamilan
+Jadwalkan kontrol kehamilan setelah libur lebaran,reminder_kontrol_kehamilan
+Kapan sebaiknya kontrol kehamilan berikutnya?,reminder_kontrol_kehamilan
+Tolong ingatkan jadwal ANC bulan depan,reminder_kontrol_kehamilan
+Cek hasil pemeriksaan urin terakhir,anc_tracker
+Saya mau tahu hasil lab terbaru,anc_tracker
+Tolong tampilkan catatan kenaikan berat badan,anc_tracker
+Cek catatan hasil pemeriksaan gula darah,anc_tracker
+Saya mau lihat perkembangan janin selama tiga bulan terakhir,anc_tracker
+Apakah imunisasi TT2 saya sudah lengkap?,imunisasi_tracker
+Kapan jadwal vaksin influenza berikutnya?,imunisasi_tracker
+Tolong kirim daftar imunisasi wajib ibu hamil,imunisasi_tracker
+Saya mau tahu kapan terakhir imunisasi hepatitis B,imunisasi_tracker
+Cek status vaksin COVID-19 saya saat hamil,imunisasi_tracker
+Bagaimana cara mengatasi nyeri punggung saat hamil?,pertanyaan_umum_kehamilan
+Apa saja tanda-tanda preeklamsia?,pertanyaan_umum_kehamilan
+Berapa kenaikan berat badan ideal selama hamil?,pertanyaan_umum_kehamilan
+Apakah aman olahraga di trimester ketiga?,pertanyaan_umum_kehamilan
+Bagaimana posisi tidur yang baik untuk ibu hamil?,pertanyaan_umum_kehamilan
+Berapa berat bayi saya saat lahir anak kedua?,riwayat_persalinan
+Saya mau tahu jenis persalinan anak pertama,riwayat_persalinan
+Kapan saya menjalani operasi caesar terakhir?,riwayat_persalinan
+Apakah ada komplikasi saat lahiran terakhir?,riwayat_persalinan
+Tolong kirim catatan waktu persalinan terakhir saya,riwayat_persalinan
+Tolong update catatan suplemen omega 3 saya,riwayat_suplemen_kehamilan
+Apa saja vitamin yang saya konsumsi di trimester pertama?,riwayat_suplemen_kehamilan
+Saya mau tahu jadwal minum vitamin E,riwayat_suplemen_kehamilan
+Cek riwayat konsumsi kalsium selama kehamilan,riwayat_suplemen_kehamilan
+Checklist barang yang harus ada di tas persalinan,panduan_persiapan_persalinan
+Hal apa saja yang wajib disiapkan sebelum persalinan?,panduan_persiapan_persalinan
+Tips mempersiapkan lahiran di rumah sakit pemerintah,panduan_persiapan_persalinan
+Persiapan lahiran yang sering dilupakan ibu hamil,panduan_persiapan_persalinan
+Bagaimana persiapan mental jika melahirkan sendirian?,panduan_persiapan_persalinan
+Barang yang harus dibawa untuk lahiran normal,panduan_persiapan_persalinan
+Persiapan lahiran bagi ibu hamil dengan komplikasi,panduan_persiapan_persalinan
+Tolong kirim panduan melahirkan aman saat pandemi,panduan_persiapan_persalinan
+Apa saja yang harus diurus sebelum persalinan?,panduan_persiapan_persalinan
+Bagaimana cara mempersiapkan anak pertama menyambut adik?,panduan_persiapan_persalinan
+Jadwal kontrol kehamilan saya bulan depan kapan?,reminder_kontrol_kehamilan
+Kapan ANC terakhir saya dilakukan?,reminder_kontrol_kehamilan
+Tolong kirim jadwal kontrol untuk bulan depan,reminder_kontrol_kehamilan
+Kapan waktu kontrol kehamilan terdekat?,reminder_kontrol_kehamilan
+Saya mau tahu kapan harus cek kandungan lagi,reminder_kontrol_kehamilan
+Kontrol kandungan saya terakhir tanggal berapa?,reminder_kontrol_kehamilan
+Tolong buat pengingat kontrol kandungan minggu depan,reminder_kontrol_kehamilan
+Jadwalkan periksa kehamilan untuk trimester kedua,reminder_kontrol_kehamilan
+Kapan waktu ANC berikutnya sesuai rekomendasi bidan?,reminder_kontrol_kehamilan
+Berapa kali lagi saya perlu kontrol sampai melahirkan?,reminder_kontrol_kehamilan
+Cek catatan hasil pemeriksaan kehamilan terakhir,anc_tracker
+Tolong tampilkan grafik perkembangan janin saya,anc_tracker
+Berapa tekanan darah terakhir saya di ANC?,anc_tracker
+Apakah gula darah saya normal di pemeriksaan terakhir?,anc_tracker
+Cek berat badan ibu hamil terakhir di catatan,anc_tracker
+Tolong tampilkan semua catatan ANC trimester kedua,anc_tracker
+Cek apakah ada edema pada kunjungan terakhir,anc_tracker
+Saya mau lihat hasil USG terakhir saya,anc_tracker
+Berapa detak jantung janin saat pemeriksaan terakhir?,anc_tracker
+Tolong tampilkan riwayat pemeriksaan ANC lengkap,anc_tracker
+Kapan saya dijadwalkan imunisasi TT4?,imunisasi_tracker
+Tolong update status imunisasi influenza saya,imunisasi_tracker
+Apakah imunisasi TT saya sudah selesai semua?,imunisasi_tracker
+Saya mau tahu jadwal imunisasi rubella,imunisasi_tracker
+Cek status vaksin hepatitis B terakhir saya,imunisasi_tracker
+Apakah imunisasi TT aman untuk janin saya?,imunisasi_tracker
+Kapan vaksin booster COVID-19 terakhir saya?,imunisasi_tracker
+Tolong kirim daftar imunisasi tambahan untuk ibu hamil,imunisasi_tracker
+Apa saja imunisasi yang harus diulang saat hamil?,imunisasi_tracker
+Saya mau tahu status imunisasi lengkap saya,imunisasi_tracker
+Apakah aman mengonsumsi obat flu saat hamil?,pertanyaan_umum_kehamilan
+Bagaimana cara mengatasi kram kaki di malam hari saat hamil?,pertanyaan_umum_kehamilan
+Apakah boleh makan durian saat hamil?,pertanyaan_umum_kehamilan
+Bagaimana mengurangi mual muntah di pagi hari?,pertanyaan_umum_kehamilan
+Apa saja tanda-tanda persalinan prematur?,pertanyaan_umum_kehamilan
+Bagaimana cara menghitung usia kehamilan dari HPHT?,pertanyaan_umum_kehamilan
+Apakah aman naik motor jarak jauh saat hamil?,pertanyaan_umum_kehamilan
+Bagaimana cara menjaga tekanan darah tetap normal saat hamil?,pertanyaan_umum_kehamilan
+Apakah boleh minum jamu saat hamil?,pertanyaan_umum_kehamilan
+Berapa kali normalnya buang air kecil saat hamil?,pertanyaan_umum_kehamilan
+Saya mau tahu berat bayi lahir anak ketiga,riwayat_persalinan
+Tolong tampilkan catatan operasi caesar saya,riwayat_persalinan
+Kapan persalinan saya dilakukan di rumah sakit?,riwayat_persalinan
+Berapa lama saya menjalani proses persalinan terakhir?,riwayat_persalinan
+Saya mau lihat komplikasi yang terjadi saat melahirkan,riwayat_persalinan
+Apakah ada induksi pada persalinan terakhir saya?,riwayat_persalinan
+Kapan saya terakhir melakukan persalinan normal?,riwayat_persalinan
+Tolong tampilkan tanggal HPL saat persalinan terakhir,riwayat_persalinan
+Saya mau tahu apakah persalinan terakhir dibantu vakum,riwayat_persalinan
+Cek catatan medis persalinan terakhir saya,riwayat_persalinan
+Kapan saya terakhir minum vitamin B kompleks?,riwayat_suplemen_kehamilan
+Tolong catat saya minum zat besi minggu lalu,riwayat_suplemen_kehamilan
+Apakah saya rutin minum asam folat setiap hari?,riwayat_suplemen_kehamilan
+Cek riwayat minum vitamin trimester kedua,riwayat_suplemen_kehamilan
+Kapan terakhir saya mengonsumsi kalsium?,riwayat_suplemen_kehamilan
+Tolong update catatan minum minyak ikan saya,riwayat_suplemen_kehamilan
+Apa saja vitamin yang sudah saya minum selama hamil?,riwayat_suplemen_kehamilan
+Saya mau tahu jadwal minum vitamin mingguan saya,riwayat_suplemen_kehamilan
+Tolong tampilkan daftar suplemen yang diresepkan dokter,riwayat_suplemen_kehamilan
+Cek catatan konsumsi vitamin prenatal saya,riwayat_suplemen_kehamilan
+Barang apa yang perlu disiapkan untuk lahiran caesar?,panduan_persiapan_persalinan
+Persiapan lahiran di rumah sakit swasta apa saja?,panduan_persiapan_persalinan
+Panduan persiapan melahirkan untuk ibu hamil muda,panduan_persiapan_persalinan
+Bagaimana menenangkan diri menjelang persalinan?,panduan_persiapan_persalinan
+Tolong buatkan daftar barang untuk persalinan,panduan_persiapan_persalinan
+Apa yang harus disiapkan di rumah setelah melahirkan?,panduan_persiapan_persalinan
+Checklist lengkap perlengkapan ibu dan bayi,panduan_persiapan_persalinan
+Tips mempersiapkan tubuh agar siap melahirkan,panduan_persiapan_persalinan
+Apa persiapan yang perlu dilakukan di minggu terakhir?,panduan_persiapan_persalinan
+Bagaimana memilih rumah sakit untuk melahirkan?,panduan_persiapan_persalinan
+Checklist lahiran normal untuk ibu baru,panduan_persiapan_persalinan
+Persiapan persalinan bagi ibu dengan riwayat operasi,panduan_persiapan_persalinan
+Daftar barang bawaan untuk lahiran di bidan,panduan_persiapan_persalinan
+Apa saja keperluan bayi baru lahir?,panduan_persiapan_persalinan
+Panduan persiapan mental sebelum operasi caesar,panduan_persiapan_persalinan
+Bagaimana cara packing tas persalinan?,panduan_persiapan_persalinan
+Tips mempersiapkan lahiran tanpa pendamping,panduan_persiapan_persalinan
+Checklist lahiran untuk ibu hamil kembar,panduan_persiapan_persalinan
+Apa yang perlu dipersiapkan untuk melahirkan di rumah?,panduan_persiapan_persalinan
+Barang bawaan wajib untuk ruang bersalin,panduan_persiapan_persalinan
+Persiapan lahiran yang disarankan oleh dokter,panduan_persiapan_persalinan
+Bagaimana mempersiapkan ASI sebelum lahiran?,panduan_persiapan_persalinan
+Persiapan penting untuk menghindari komplikasi lahiran,panduan_persiapan_persalinan
+Apa yang harus dipersiapkan jika melahirkan di luar kota?,panduan_persiapan_persalinan
+Bagaimana menyiapkan suami untuk mendampingi persalinan?,panduan_persiapan_persalinan
+Checklist barang bayi untuk lahiran musim hujan,panduan_persiapan_persalinan
+Persiapan persalinan untuk ibu dengan tekanan darah tinggi,panduan_persiapan_persalinan
+Barang yang perlu dibawa jika lahiran di puskesmas,panduan_persiapan_persalinan
+Bagaimana cara mengatur jadwal kerja menjelang lahiran?,panduan_persiapan_persalinan
+Tips mempersiapkan lahiran normal setelah caesar,panduan_persiapan_persalinan
+Checklist persalinan untuk ibu hamil tua,panduan_persiapan_persalinan
+Bagaimana mengatur keuangan untuk biaya persalinan?,panduan_persiapan_persalinan
+Panduan persiapan persalinan dengan bidan desa,panduan_persiapan_persalinan
+Barang bawaan wajib untuk ibu hamil trimester akhir,panduan_persiapan_persalinan
+Persiapan lahiran untuk ibu dengan diabetes gestasional,panduan_persiapan_persalinan
+Tips menghadapi rasa takut sebelum persalinan,panduan_persiapan_persalinan
+Apa yang harus diperhatikan saat mempersiapkan lahiran?,panduan_persiapan_persalinan
+Checklist persalinan sesuai anjuran Kemenkes,panduan_persiapan_persalinan
+Persiapan lahiran untuk ibu dengan riwayat keguguran,panduan_persiapan_persalinan
+Bagaimana membuat rencana persalinan yang aman?,panduan_persiapan_persalinan
+Kapan jadwal kontrol kandungan saya selanjutnya?,reminder_kontrol_kehamilan
+Saya mau tahu kapan kontrol kehamilan berikutnya,reminder_kontrol_kehamilan
+Jadwalkan kontrol kehamilan saya untuk minggu depan,reminder_kontrol_kehamilan
+Ingatkan saya jadwal ANC trimester ini,reminder_kontrol_kehamilan
+Tolong kirim jadwal pemeriksaan kandungan terbaru,reminder_kontrol_kehamilan
+Saya mau lihat jadwal kontrol berikutnya di buku KIA,reminder_kontrol_kehamilan
+Kapan waktu kontrol kehamilan saya yang akan datang?,reminder_kontrol_kehamilan
+Tolong buatkan jadwal kontrol untuk bulan ini,reminder_kontrol_kehamilan
+Ingatkan saya periksa kandungan minggu depan,reminder_kontrol_kehamilan
+Tolong atur jadwal ANC saya sesuai usia kehamilan,reminder_kontrol_kehamilan
+Saya mau tahu jadwal kontrol kandungan terakhir saya,reminder_kontrol_kehamilan
+Kapan jadwal ANC saya berikutnya?,reminder_kontrol_kehamilan
+Tolong set reminder kontrol hamil di minggu depan,reminder_kontrol_kehamilan
+Saya mau tahu jadwal pemeriksaan kandungan mendatang,reminder_kontrol_kehamilan
+Kapan saya terakhir kontrol kandungan?,reminder_kontrol_kehamilan
+Tolong beri tahu jadwal kontrol trimester kedua saya,reminder_kontrol_kehamilan
+Saya mau jadwal kontrol setelah libur panjang,reminder_kontrol_kehamilan
+Kapan kontrol hamil terakhir saya dilakukan?,reminder_kontrol_kehamilan
+Tolong atur jadwal ANC berikutnya,reminder_kontrol_kehamilan
+Saya mau tahu kapan harus periksa kandungan lagi,reminder_kontrol_kehamilan
+Kapan jadwal pemeriksaan ibu hamil selanjutnya?,reminder_kontrol_kehamilan
+Tolong kirim jadwal ANC minggu ini,reminder_kontrol_kehamilan
+Ingatkan saya kontrol kandungan setiap bulan,reminder_kontrol_kehamilan
+Kapan jadwal ANC terakhir saya?,reminder_kontrol_kehamilan
+Saya mau tahu jadwal pemeriksaan kehamilan trimester akhir,reminder_kontrol_kehamilan
+Tolong catat jadwal kontrol kehamilan saya di kalender,reminder_kontrol_kehamilan
+Kapan saya harus ke bidan untuk kontrol lagi?,reminder_kontrol_kehamilan
+Tolong beri tahu kapan pemeriksaan kandungan berikutnya,reminder_kontrol_kehamilan
+Jadwalkan kontrol kandungan setelah USG terakhir,reminder_kontrol_kehamilan
+Kapan jadwal ANC sesuai anjuran dokter saya?,reminder_kontrol_kehamilan
+Saya mau tahu jadwal kontrol bulan depan,reminder_kontrol_kehamilan
+Tolong buat reminder kontrol hamil 2 minggu lagi,reminder_kontrol_kehamilan
+Kapan saya dijadwalkan periksa kandungan lagi?,reminder_kontrol_kehamilan
+Tolong kirim pengingat jadwal ANC saya,reminder_kontrol_kehamilan
+Saya mau tahu kapan jadwal periksa kandungan selanjutnya,reminder_kontrol_kehamilan
+Kapan pemeriksaan hamil berikutnya dilakukan?,reminder_kontrol_kehamilan
+Tolong atur jadwal kontrol sesuai rekomendasi bidan,reminder_kontrol_kehamilan
+Kapan jadwal ANC trimester ketiga saya?,reminder_kontrol_kehamilan
+Saya mau lihat jadwal pemeriksaan terakhir dan berikutnya,reminder_kontrol_kehamilan
+Tolong buat reminder kontrol di puskesmas minggu depan,reminder_kontrol_kehamilan
+Kapan saya perlu kontrol setelah USG?,reminder_kontrol_kehamilan
+Tolong catat jadwal ANC saya bulan depan,reminder_kontrol_kehamilan
+Saya mau tahu jadwal kontrol mendatang sesuai KIA,reminder_kontrol_kehamilan
+Kapan jadwal pemeriksaan ibu hamil trimester pertama?,reminder_kontrol_kehamilan
+Tolong kirim notifikasi jadwal kontrol saya,reminder_kontrol_kehamilan
+Saya mau tahu kapan kontrol kandungan terakhir dan berikutnya,reminder_kontrol_kehamilan
+Kapan jadwal ANC terakhir tercatat?,reminder_kontrol_kehamilan
+Tolong jadwalkan pemeriksaan kandungan setelah cuti melahirkan,reminder_kontrol_kehamilan
+Tolong cek catatan tekanan darah terakhir,anc_tracker
+Saya mau lihat grafik kenaikan berat badan,anc_tracker
+Tolong tampilkan hasil USG terakhir,anc_tracker
+Cek detak jantung janin terakhir,anc_tracker
+Saya mau tahu lingkar lengan atas terakhir saya,anc_tracker
+Tolong update catatan gula darah terbaru,anc_tracker
+Saya mau tahu hasil pemeriksaan protein urin terakhir,anc_tracker
+Cek catatan hasil lab bulan ini,anc_tracker
+Tolong tampilkan perkembangan janin di trimester ini,anc_tracker
+Saya mau lihat riwayat hasil pemeriksaan kehamilan,anc_tracker
+Tolong catat hasil pemeriksaan tinggi fundus,anc_tracker
+Saya mau tahu catatan pemeriksaan Hb terakhir,anc_tracker
+Tolong tampilkan data ANC trimester kedua,anc_tracker
+Cek hasil pemeriksaan urine terakhir,anc_tracker
+Saya mau tahu tekanan darah terakhir di buku KIA,anc_tracker
+Tolong update berat badan saya minggu ini,anc_tracker
+Cek data perkembangan janin di trimester pertama,anc_tracker
+Saya mau lihat hasil pemeriksaan kesehatan terakhir,anc_tracker
+Tolong tampilkan catatan pemeriksaan USG,anc_tracker
+Cek catatan kesehatan ibu hamil terakhir,anc_tracker
+Saya mau tahu hasil pemeriksaan trimester ketiga,anc_tracker
+Tolong catat tinggi badan janin terbaru,anc_tracker
+Cek catatan hasil pemeriksaan laboratorium terakhir,anc_tracker
+Saya mau tahu lingkar kepala janin terakhir,anc_tracker
+Tolong tampilkan catatan ANC saya bulan ini,anc_tracker
+Cek data pemeriksaan perut terakhir,anc_tracker
+Saya mau lihat semua catatan ANC dari awal kehamilan,anc_tracker
+Tolong update hasil pemeriksaan gula darah puasa,anc_tracker
+Cek catatan kesehatan kandungan minggu lalu,anc_tracker
+Saya mau tahu hasil detak jantung bayi terakhir,anc_tracker
+Tolong tampilkan hasil pemeriksaan darah terakhir,anc_tracker
+Cek catatan pemeriksaan berat badan janin,anc_tracker
+Saya mau lihat hasil pemeriksaan trimester kedua,anc_tracker
+Tolong catat data tekanan darah harian,anc_tracker
+Cek perkembangan janin di bulan ini,anc_tracker
+Saya mau tahu hasil USG yang terbaru,anc_tracker
+Tolong tampilkan catatan pemeriksaan trimester pertama,anc_tracker
+Cek riwayat tekanan darah selama kehamilan,anc_tracker
+Saya mau lihat catatan hasil pemeriksaan di puskesmas,anc_tracker
+Tolong update data kesehatan kehamilan saya,anc_tracker
+Cek catatan hasil pemeriksaan fisik terakhir,anc_tracker
+Saya mau tahu perkembangan janin minggu ini,anc_tracker
+Tolong tampilkan semua hasil ANC yang tersimpan,anc_tracker
+Cek catatan pemeriksaan denyut jantung bayi,anc_tracker
+Saya mau lihat hasil pemeriksaan kandungan terakhir,anc_tracker
+Kapan imunisasi TT saya terakhir?,imunisasi_tracker
+Saya mau tahu jadwal imunisasi berikutnya,imunisasi_tracker
+Apa saja imunisasi yang sudah saya dapatkan?,imunisasi_tracker
+Cek status imunisasi saya,imunisasi_tracker
+Kapan saya harus imunisasi TT2?,imunisasi_tracker
+Tolong ingatkan jadwal vaksin berikutnya,imunisasi_tracker
+Saya mau tahu kapan terakhir imunisasi COVID-19 saat hamil,imunisasi_tracker
+Jenis imunisasi apa yang belum saya dapatkan?,imunisasi_tracker
+Apakah saya sudah imunisasi lengkap?,imunisasi_tracker
+Kapan jadwal imunisasi TT pertama saya?,imunisasi_tracker
+Apa jadwal vaksin yang direkomendasikan untuk ibu hamil?,imunisasi_tracker
+Tolong cek catatan vaksin saya di buku KIA,imunisasi_tracker
+Kapan saya harus vaksin influenza?,imunisasi_tracker
+Saya mau tahu status imunisasi rubella saya,imunisasi_tracker
+Apa saja vaksin yang wajib saat hamil?,imunisasi_tracker
+Cek jadwal vaksin tetanus saya,imunisasi_tracker
+Saya mau lihat riwayat imunisasi TT,imunisasi_tracker
+Kapan saya dijadwalkan imunisasi TT3?,imunisasi_tracker
+Tolong tampilkan catatan vaksin terakhir saya,imunisasi_tracker
+Saya mau tahu vaksin apa yang belum lengkap,imunisasi_tracker
+Cek kapan saya imunisasi TT4,imunisasi_tracker
+Saya mau lihat jadwal vaksin hepatitis B,imunisasi_tracker
+Tolong update jadwal imunisasi saya,imunisasi_tracker
+Kapan terakhir saya vaksin flu?,imunisasi_tracker
+Saya mau tahu jadwal vaksin booster COVID-19,imunisasi_tracker
+Cek status imunisasi tetanus,imunisasi_tracker
+Saya mau lihat daftar vaksin yang sudah saya terima,imunisasi_tracker
+Kapan saya harus vaksin TT5?,imunisasi_tracker
+Tolong tampilkan catatan imunisasi lengkap,imunisasi_tracker
+Saya mau tahu kapan terakhir vaksin hepatitis,imunisasi_tracker
+Cek riwayat vaksin selama hamil,imunisasi_tracker
+Kapan jadwal imunisasi rubella saya?,imunisasi_tracker
+Saya mau lihat jadwal vaksin influenza berikutnya,imunisasi_tracker
+Tolong cek apakah saya sudah vaksin TT1,imunisasi_tracker
+Saya mau tahu vaksin yang direkomendasikan dokter,imunisasi_tracker
+Kapan jadwal imunisasi paling dekat?,imunisasi_tracker
+Cek catatan imunisasi trimester pertama,imunisasi_tracker
+Saya mau lihat jadwal vaksin di trimester ketiga,imunisasi_tracker
+Tolong update status imunisasi saya di sistem,imunisasi_tracker
+Saya mau tahu kapan harus vaksin COVID-19 dosis 2,imunisasi_tracker
+Cek catatan vaksin tetanus terakhir,imunisasi_tracker
+Saya mau lihat vaksin yang belum saya dapatkan,imunisasi_tracker
+Tolong tampilkan jadwal imunisasi sesuai anjuran WHO,imunisasi_tracker
+Kapan saya dijadwalkan vaksin TT booster?,imunisasi_tracker
+Saya mau lihat status imunisasi TT lengkap,imunisasi_tracker
+Apa itu ANC dan kenapa penting?,pertanyaan_umum_kehamilan
+Berapa kali normalnya ibu hamil harus kontrol?,pertanyaan_umum_kehamilan
+Apa manfaat imunisasi TT untuk ibu hamil?,pertanyaan_umum_kehamilan
+Kapan waktu yang tepat untuk USG pertama?,pertanyaan_umum_kehamilan
+Apa saja tanda-tanda mau melahirkan?,pertanyaan_umum_kehamilan
+Apakah ibu hamil boleh olahraga?,pertanyaan_umum_kehamilan
+Apa makanan yang bagus untuk ibu hamil?,pertanyaan_umum_kehamilan
+Bagaimana cara mengatasi mual saat hamil muda?,pertanyaan_umum_kehamilan
+Apa itu preeklamsia dan gejalanya?,pertanyaan_umum_kehamilan
+Kapan waktu yang aman untuk bepergian jauh saat hamil?,pertanyaan_umum_kehamilan
+Berapa lama proses persalinan normal biasanya?,pertanyaan_umum_kehamilan
+Apakah semua ibu hamil harus melahirkan di rumah sakit?,pertanyaan_umum_kehamilan
+Bagaimana cara mengetahui posisi bayi dalam kandungan?,pertanyaan_umum_kehamilan
+Apakah imunisasi saat hamil aman untuk janin?,pertanyaan_umum_kehamilan
+Apa itu LILA dan kenapa diukur saat ANC?,pertanyaan_umum_kehamilan
+Berapa kenaikan berat badan ideal saat hamil?,pertanyaan_umum_kehamilan
+Apakah semua ibu hamil perlu minum tablet Fe?,pertanyaan_umum_kehamilan
+Bagaimana cara mengurangi bengkak kaki saat hamil?,pertanyaan_umum_kehamilan
+Apa yang dimaksud dengan HPL?,pertanyaan_umum_kehamilan
+Bagaimana menghitung usia kehamilan?,pertanyaan_umum_kehamilan
+Apakah normal jika ibu hamil sering sakit pinggang?,pertanyaan_umum_kehamilan
+Apa saja olahraga yang aman untuk ibu hamil?,pertanyaan_umum_kehamilan
+Bagaimana cara menghitung HPL?,pertanyaan_umum_kehamilan
+Apakah ibu hamil boleh bepergian jauh?,pertanyaan_umum_kehamilan
+Bagaimana cara memperbanyak ASI saat hamil?,pertanyaan_umum_kehamilan
+Apa risiko melahirkan di usia lebih dari 35 tahun?,pertanyaan_umum_kehamilan
+Apakah ibu hamil boleh berpuasa?,pertanyaan_umum_kehamilan
+Bagaimana tanda bayi sungsang?,pertanyaan_umum_kehamilan
+Apa yang dimaksud dengan kontraksi palsu?,pertanyaan_umum_kehamilan
+Apa makanan yang sebaiknya dihindari saat hamil?,pertanyaan_umum_kehamilan
+Apakah ibu hamil boleh minum obat sakit kepala?,pertanyaan_umum_kehamilan
+Bagaimana cara mencegah anemia saat hamil?,pertanyaan_umum_kehamilan
+Apa penyebab mual berlebihan saat hamil?,pertanyaan_umum_kehamilan
+Apa yang dimaksud dengan ketuban pecah dini?,pertanyaan_umum_kehamilan
+Bagaimana cara tidur yang baik untuk ibu hamil?,pertanyaan_umum_kehamilan
+Apa itu plasenta previa?,pertanyaan_umum_kehamilan
+Apa penyebab bayi lahir prematur?,pertanyaan_umum_kehamilan
+Apakah ibu hamil boleh naik pesawat?,pertanyaan_umum_kehamilan
+Bagaimana cara menjaga kesehatan gigi saat hamil?,pertanyaan_umum_kehamilan
+Apa itu kontraksi Braxton Hicks?,pertanyaan_umum_kehamilan
+Apakah ibu hamil boleh minum susu kedelai?,pertanyaan_umum_kehamilan
+Apa saja tanda janin sehat dalam kandungan?,pertanyaan_umum_kehamilan
+Bagaimana cara mencegah preeklamsia?,pertanyaan_umum_kehamilan
+Apakah stres mempengaruhi kehamilan?,pertanyaan_umum_kehamilan
+Kapan saya melahirkan anak kedua?,riwayat_persalinan
+Tolong tampilkan berat bayi lahir pertama saya,riwayat_persalinan
+Berapa lama proses persalinan terakhir saya?,riwayat_persalinan
+Apakah ada robekan saat persalinan terakhir?,riwayat_persalinan
+Saya mau lihat jenis persalinan sebelumnya,riwayat_persalinan
+Kapan persalinan ketiga saya terjadi?,riwayat_persalinan
+Tolong tampilkan data lengkap persalinan saya,riwayat_persalinan
+Berapa panjang bayi saya saat lahir terakhir?,riwayat_persalinan
+Saya mau tahu apakah persalinan terakhir normal atau caesar,riwayat_persalinan
+Kapan HPL terakhir saya dibandingkan dengan tanggal lahir bayi?,riwayat_persalinan
+Cek apakah saya pernah induksi persalinan,riwayat_persalinan
+Tolong tampilkan usia kehamilan saat melahirkan terakhir,riwayat_persalinan
+Saya mau tahu kondisi bayi saat lahir,riwayat_persalinan
+Berapa Apgar Score bayi terakhir saya?,riwayat_persalinan
+Cek apakah saya pernah mengalami persalinan prematur,riwayat_persalinan
+Saya mau lihat catatan proses persalinan anak pertama,riwayat_persalinan
+Kapan saya melahirkan bayi kembar?,riwayat_persalinan
+Apakah ada perdarahan pasca persalinan terakhir?,riwayat_persalinan
+Tolong tampilkan jenis anestesi yang digunakan saat persalinan,riwayat_persalinan
+Saya mau tahu posisi bayi saat lahir terakhir,riwayat_persalinan
+Cek apakah bayi saya lahir dengan bantuan vakum atau forceps,riwayat_persalinan
+Kapan saya terakhir melahirkan di rumah sakit?,riwayat_persalinan
+Berapa lama pembukaan penuh sebelum melahirkan?,riwayat_persalinan
+Saya mau lihat catatan bidan atau dokter saat persalinan,riwayat_persalinan
+Tolong tampilkan data suhu bayi saat lahir,riwayat_persalinan
+Saya mau tahu berat bayi lahir paling ringan,riwayat_persalinan
+Kapan saya pertama kali melahirkan?,riwayat_persalinan
+Cek apakah ada komplikasi pada bayi saat lahir,riwayat_persalinan
+Saya mau lihat catatan perawatan bayi setelah lahir,riwayat_persalinan
+Apakah saya pernah melahirkan lewat operasi caesar?,riwayat_persalinan
+Berapa berat bayi lahir terbesar saya?,riwayat_persalinan
+Kapan saya mengalami persalinan paling lama?,riwayat_persalinan
+Saya mau tahu berapa kali saya sudah melahirkan,riwayat_persalinan
+Tolong tampilkan catatan darah keluar saat persalinan,riwayat_persalinan
+Apakah saya pernah mengalami persalinan macet?,riwayat_persalinan
+Kapan saya melahirkan di rumah pertama kali?,riwayat_persalinan
+Saya mau lihat catatan kesehatan bayi saat lahir,riwayat_persalinan
+Tolong tampilkan jenis kelamin bayi saat lahir,riwayat_persalinan
+Saya mau tahu apakah bayi saya lahir cukup bulan,riwayat_persalinan
+Cek apakah ada riwayat persalinan dengan induksi,riwayat_persalinan
+Kapan saya melahirkan terakhir kali?,riwayat_persalinan
+Saya mau lihat catatan lengkap semua persalinan,riwayat_persalinan
+Tolong tampilkan riwayat persalinan anak kedua saya,riwayat_persalinan
+Apakah ada komplikasi pasca lahir terakhir?,riwayat_persalinan
+Berapa lama waktu mengejan saat persalinan terakhir?,riwayat_persalinan
+Kapan terakhir saya minum vitamin D?,riwayat_suplemen_kehamilan
+Tolong catat saya minum kalsium bulan ini,riwayat_suplemen_kehamilan
+Apa saja suplemen yang saya minum di trimester ketiga?,riwayat_suplemen_kehamilan
+Saya mau tahu kapan terakhir minum zat besi,riwayat_suplemen_kehamilan
+Tolong tampilkan catatan konsumsi vitamin selama hamil,riwayat_suplemen_kehamilan
+Kapan saya terakhir minum vitamin E?,riwayat_suplemen_kehamilan
+Saya mau lihat daftar suplemen trimester pertama,riwayat_suplemen_kehamilan
+Cek catatan konsumsi asam folat saya,riwayat_suplemen_kehamilan
+Tolong tampilkan riwayat minum multivitamin saya,riwayat_suplemen_kehamilan
+Saya mau tahu apakah saya rutin minum zat besi,riwayat_suplemen_kehamilan
+Kapan saya terakhir minum minyak ikan?,riwayat_suplemen_kehamilan
+Tolong catat konsumsi probiotik minggu ini,riwayat_suplemen_kehamilan
+Saya mau lihat catatan vitamin B kompleks saya,riwayat_suplemen_kehamilan
+Kapan terakhir saya minum vitamin C?,riwayat_suplemen_kehamilan
+Tolong cek catatan minum kalsium saya,riwayat_suplemen_kehamilan
+Saya mau tahu suplemen apa yang belum saya minum bulan ini,riwayat_suplemen_kehamilan
+Cek apakah saya pernah minum vitamin D saat hamil,riwayat_suplemen_kehamilan
+Kapan saya mulai minum asam folat?,riwayat_suplemen_kehamilan
+Tolong tampilkan riwayat minum tablet tambah darah,riwayat_suplemen_kehamilan
+Saya mau lihat catatan minum suplemen omega 3,riwayat_suplemen_kehamilan
+Kapan saya terakhir minum suplemen vitamin A?,riwayat_suplemen_kehamilan
+Tolong catat saya minum susu ibu hamil,riwayat_suplemen_kehamilan
+Saya mau tahu konsumsi vitamin trimester kedua saya,riwayat_suplemen_kehamilan
+Cek catatan minum herbal selama hamil,riwayat_suplemen_kehamilan
+Saya mau lihat daftar vitamin yang direkomendasikan dokter,riwayat_suplemen_kehamilan
+Kapan saya terakhir minum vitamin B12?,riwayat_suplemen_kehamilan
+Tolong tampilkan konsumsi zat besi harian saya,riwayat_suplemen_kehamilan
+Saya mau tahu apakah saya rutin minum asam folat,riwayat_suplemen_kehamilan
+Cek catatan minum vitamin harian saya,riwayat_suplemen_kehamilan
+Kapan saya mulai minum suplemen kalsium?,riwayat_suplemen_kehamilan
+Tolong catat konsumsi vitamin E minggu ini,riwayat_suplemen_kehamilan
+Saya mau lihat catatan minum vitamin selama trimester ketiga,riwayat_suplemen_kehamilan
+Kapan terakhir saya minum vitamin prenatal?,riwayat_suplemen_kehamilan
+Tolong cek catatan suplemen lengkap saya,riwayat_suplemen_kehamilan
+Saya mau tahu apakah saya pernah minum vitamin A,riwayat_suplemen_kehamilan
+Cek riwayat konsumsi suplemen selama kehamilan,riwayat_suplemen_kehamilan
+Kapan saya terakhir minum vitamin B1?,riwayat_suplemen_kehamilan
+Tolong tampilkan catatan minum suplemen tambahan,riwayat_suplemen_kehamilan
+Saya mau tahu kapan terakhir minum suplemen omega,riwayat_suplemen_kehamilan
+Cek catatan minum vitamin D harian saya,riwayat_suplemen_kehamilan
+Kapan saya terakhir minum suplemen zat besi?,riwayat_suplemen_kehamilan
+Tolong tampilkan riwayat minum vitamin untuk kehamilan,riwayat_suplemen_kehamilan
+Saya mau lihat catatan minum vitamin per trimester,riwayat_suplemen_kehamilan
+Tolong tampilkan semua riwayat minum suplemen saya,riwayat_suplemen_kehamilan
+Kapan terakhir saya minum vitamin B kompleks?,riwayat_suplemen_kehamilan
+Saya mau tahu apakah saya rutin minum vitamin C,riwayat_suplemen_kehamilan
+Tolong catat saya baru saja minum asam folat,riwayat_suplemen_kehamilan
+Saya mau lihat catatan minum kalsium trimester ini,riwayat_suplemen_kehamilan
+Cek kapan terakhir saya minum multivitamin,riwayat_suplemen_kehamilan
+Tolong tampilkan jadwal konsumsi vitamin saya,riwayat_suplemen_kehamilan
+Kapan saya terakhir minum vitamin prenatal?,riwayat_suplemen_kehamilan
+Saya mau tahu suplemen yang saya minum di bulan ini,riwayat_suplemen_kehamilan
+Cek riwayat konsumsi suplemen trimester pertama,riwayat_suplemen_kehamilan
+Tolong catat saya minum vitamin E hari ini,riwayat_suplemen_kehamilan
+Saya mau lihat semua catatan minum suplemen hamil,riwayat_suplemen_kehamilan
+Kapan terakhir saya minum minyak ikan omega 3?,riwayat_suplemen_kehamilan
+Tolong tampilkan riwayat minum susu ibu hamil saya,riwayat_suplemen_kehamilan
+Saya mau tahu kapan terakhir minum vitamin D3,riwayat_suplemen_kehamilan
+Cek catatan konsumsi herbal untuk kehamilan,riwayat_suplemen_kehamilan
+Tolong catat saya minum tablet tambah darah hari ini,riwayat_suplemen_kehamilan
+Saya mau lihat catatan minum vitamin trimester kedua,riwayat_suplemen_kehamilan
+Kapan saya mulai minum suplemen kehamilan?,riwayat_suplemen_kehamilan
+Tolong tampilkan semua catatan vitamin harian,riwayat_suplemen_kehamilan
+Saya mau tahu apakah saya pernah minum vitamin A saat hamil,riwayat_suplemen_kehamilan
+Cek riwayat konsumsi vitamin untuk kehamilan sehat,riwayat_suplemen_kehamilan
+Kapan terakhir saya minum vitamin K?,riwayat_suplemen_kehamilan
+Tolong catat saya minum suplemen probiotik,riwayat_suplemen_kehamilan
+Saya mau lihat daftar semua vitamin yang pernah saya konsumsi,riwayat_suplemen_kehamilan
+Cek catatan vitamin dan mineral trimester ketiga,riwayat_suplemen_kehamilan
+Tolong tampilkan jadwal rutin minum zat besi,riwayat_suplemen_kehamilan
+Kapan terakhir saya minum vitamin B12?,riwayat_suplemen_kehamilan
+Cek catatan konsumsi kalsium mingguan saya,riwayat_suplemen_kehamilan
+Tolong catat saya minum vitamin C pagi ini,riwayat_suplemen_kehamilan
+Saya mau lihat riwayat minum vitamin sesuai anjuran dokter,riwayat_suplemen_kehamilan
+Kapan saya mulai minum vitamin E?,riwayat_suplemen_kehamilan
+Tolong tampilkan semua konsumsi suplemen saya tahun ini,riwayat_suplemen_kehamilan
+Saya mau tahu kapan terakhir minum vitamin prenatal lengkap,riwayat_suplemen_kehamilan
+Cek catatan minum vitamin per minggu,riwayat_suplemen_kehamilan
+Tolong catat saya minum susu hamil hari ini,riwayat_suplemen_kehamilan
+Saya mau lihat catatan vitamin trimester ketiga,riwayat_suplemen_kehamilan
+Kapan terakhir saya minum vitamin untuk tulang?,riwayat_suplemen_kehamilan
+Tolong tampilkan konsumsi vitamin harian selama kehamilan,riwayat_suplemen_kehamilan
+Saya mau tahu suplemen apa yang saya minum bulan lalu,riwayat_suplemen_kehamilan
+Cek riwayat minum vitamin sesuai jadwal bidan,riwayat_suplemen_kehamilan
+Tolong catat saya minum suplemen hari ini,riwayat_suplemen_kehamilan
+Saya mau lihat catatan minum vitamin trimester pertama,riwayat_suplemen_kehamilan
+Kapan saya mulai konsumsi tablet Fe?,riwayat_suplemen_kehamilan
+Tolong tampilkan catatan vitamin untuk ibu hamil,riwayat_suplemen_kehamilan
+Saya mau tahu kapan terakhir minum kalsium tablet,riwayat_suplemen_kehamilan
+Cek catatan konsumsi vitamin sejak awal hamil,riwayat_suplemen_kehamilan
+Tolong catat saya minum vitamin D pagi ini,riwayat_suplemen_kehamilan
+Saya mau lihat daftar lengkap suplemen kehamilan,riwayat_suplemen_kehamilan
+Saya ingin mengetahui tanggal persalinan pertama saya beserta detailnya,riwayat_persalinan
+Tolong tampilkan catatan lengkap proses persalinan terakhir saya,riwayat_persalinan
+Kapan tepatnya saya melahirkan anak ketiga dan di rumah sakit mana?,riwayat_persalinan
+Saya mau tahu berapa berat dan panjang bayi saya saat lahir terakhir,riwayat_persalinan
+Tolong berikan ringkasan seluruh riwayat persalinan saya dari awal hingga terakhir,riwayat_persalinan
+Cek catatan apakah persalinan terakhir saya melalui operasi caesar atau normal,riwayat_persalinan
+Saya ingin melihat detail komplikasi yang terjadi pada persalinan kedua saya,riwayat_persalinan
+Kapan persalinan pertama saya terjadi dan berapa lama prosesnya?,riwayat_persalinan
+Tolong tampilkan catatan mengenai robekan atau jahitan pada persalinan terakhir,riwayat_persalinan
+Saya mau tahu semua data kelahiran anak-anak saya termasuk berat lahir,riwayat_persalinan
+Tolong cek apakah saya pernah mengalami induksi pada persalinan sebelumnya,riwayat_persalinan
+Saya ingin melihat riwayat penggunaan epidural selama persalinan,riwayat_persalinan
+Kapan saya melahirkan anak kedua dan apakah ada komplikasi?,riwayat_persalinan
+Tolong tampilkan informasi lengkap persalinan pertama saya,riwayat_persalinan
+Saya mau tahu lokasi persalinan terakhir saya berlangsung,riwayat_persalinan
+Cek catatan apakah bayi saya lahir cukup bulan atau prematur,riwayat_persalinan
+Tolong tampilkan semua riwayat persalinan lengkap dengan tanggal dan jenisnya,riwayat_persalinan
+Saya ingin tahu apakah saya pernah dirujuk ke rumah sakit saat persalinan,riwayat_persalinan
+Kapan tepatnya proses persalinan terakhir dimulai dan berakhir?,riwayat_persalinan
+Tolong tampilkan catatan riwayat penggunaan alat bantu seperti vakum atau forceps,riwayat_persalinan
+Saya mau tahu berapa menit bayi saya menangis pertama kali setelah lahir,riwayat_persalinan
+Cek apakah saya pernah mengalami pendarahan pasca persalinan,riwayat_persalinan
+Tolong tampilkan catatan kondisi bayi saat lahir berdasarkan skor APGAR,riwayat_persalinan
+Saya ingin melihat detail proses pembukaan persalinan terakhir,riwayat_persalinan
+Kapan anak pertama saya lahir dan siapa bidannya?,riwayat_persalinan
+Tolong tampilkan data persalinan yang melibatkan operasi darurat,riwayat_persalinan
+Saya mau tahu berapa lama saya rawat inap setelah melahirkan terakhir,riwayat_persalinan
+Cek catatan apakah saya pernah mendapatkan induksi oksitosin,riwayat_persalinan
+Tolong tampilkan riwayat komplikasi kehamilan yang berhubungan dengan persalinan,riwayat_persalinan
+Saya ingin tahu apakah ada kelainan posisi janin saat lahir,riwayat_persalinan
+Kapan persalinan saya dilakukan di rumah dan bagaimana hasilnya?,riwayat_persalinan
+Tolong tampilkan riwayat persalinan yang memerlukan observasi khusus untuk bayi,riwayat_persalinan
+Saya mau tahu apakah saya pernah menjalani persalinan dengan anestesi spinal,riwayat_persalinan
+Cek catatan durasi mengejan pada persalinan terakhir,riwayat_persalinan
+Tolong tampilkan catatan jumlah jahitan yang saya terima setelah melahirkan,riwayat_persalinan
+Saya ingin melihat perbandingan waktu persalinan dari anak pertama hingga terakhir,riwayat_persalinan
+Kapan anak saya lahir dengan kondisi sungsang?,riwayat_persalinan
+Tolong tampilkan riwayat penggunaan infus selama proses melahirkan,riwayat_persalinan
+Saya mau tahu apakah saya pernah mengalami ketuban pecah dini,riwayat_persalinan
+Cek catatan berat badan bayi yang lahir di atas 4 kg,riwayat_persalinan
+Tolong tampilkan riwayat persalinan yang disertai dengan preeklamsia,riwayat_persalinan
+Saya ingin tahu apakah saya pernah melahirkan dengan bantuan bidan desa,riwayat_persalinan
+Kapan saya menjalani persalinan normal tanpa obat penghilang rasa sakit?,riwayat_persalinan
+Tolong tampilkan semua catatan persalinan termasuk komplikasi ibu dan bayi,riwayat_persalinan
+Saya mau tahu jumlah total jam persalinan yang pernah saya jalani,riwayat_persalinan
+Cek catatan suhu tubuh bayi saat lahir,riwayat_persalinan
+Tolong tampilkan detail proses penanganan setelah persalinan,riwayat_persalinan
+Saya ingin tahu apakah saya pernah mengalami persalinan dengan bayi kembar,riwayat_persalinan
+Cek catatan persalinan yang melibatkan operasi caesar berulang,riwayat_persalinan
+Tolong tampilkan semua detail medis dari persalinan terakhir saya,riwayat_persalinan
+Apakah normal jika ibu hamil sering merasa cepat lelah di trimester pertama?,pertanyaan_umum_kehamilan
+Mengapa ibu hamil dianjurkan tidur miring ke kiri?,pertanyaan_umum_kehamilan
+Bagaimana cara mengatasi kram kaki yang sering muncul di malam hari saat hamil?,pertanyaan_umum_kehamilan
+Apakah boleh ibu hamil minum es setiap hari?,pertanyaan_umum_kehamilan
+Kenapa ibu hamil disarankan menghindari makanan mentah?,pertanyaan_umum_kehamilan
+Berapa kali sebaiknya ibu hamil melakukan pemeriksaan ANC selama kehamilan?,pertanyaan_umum_kehamilan
+Apakah aman melakukan perjalanan udara saat usia kehamilan 7 bulan?,pertanyaan_umum_kehamilan
+Bagaimana cara mencegah stretch mark selama kehamilan?,pertanyaan_umum_kehamilan
+Apakah olahraga yoga aman untuk ibu hamil muda?,pertanyaan_umum_kehamilan
+Kenapa ibu hamil sering merasa pusing saat bangun dari duduk?,pertanyaan_umum_kehamilan
+Bagaimana cara menghitung taksiran berat janin berdasarkan usia kehamilan?,pertanyaan_umum_kehamilan
+Apakah ibu hamil boleh mengonsumsi obat flu yang dijual bebas?,pertanyaan_umum_kehamilan
+Apakah normal jika gerakan janin terasa lebih aktif di malam hari?,pertanyaan_umum_kehamilan
+Bagaimana cara membedakan kontraksi palsu dan kontraksi asli?,pertanyaan_umum_kehamilan
+Apakah berbahaya jika ibu hamil sering begadang?,pertanyaan_umum_kehamilan
+Kenapa ibu hamil sering mengalami gusi berdarah?,pertanyaan_umum_kehamilan
+Apakah aman minum susu kedelai setiap hari saat hamil?,pertanyaan_umum_kehamilan
+Bagaimana cara mengurangi rasa sesak napas pada trimester akhir?,pertanyaan_umum_kehamilan
+Apakah ibu hamil boleh melakukan perawatan wajah di klinik?,pertanyaan_umum_kehamilan
+Bagaimana dampak stres terhadap kehamilan dan janin?,pertanyaan_umum_kehamilan
+Apakah boleh ibu hamil berendam air hangat terlalu lama?,pertanyaan_umum_kehamilan
+Bagaimana cara menjaga kesehatan tulang selama hamil?,pertanyaan_umum_kehamilan
+Apakah normal jika berat badan ibu hamil tidak naik di trimester pertama?,pertanyaan_umum_kehamilan
+Bagaimana cara mengatasi susah tidur saat perut mulai membesar?,pertanyaan_umum_kehamilan
+Apakah ibu hamil boleh meminum kopi tanpa kafein?,pertanyaan_umum_kehamilan
+Kenapa beberapa ibu hamil mengalami kulit wajah menjadi lebih gelap?,pertanyaan_umum_kehamilan
+Apakah normal jika ibu hamil sering merasa panas atau gerah?,pertanyaan_umum_kehamilan
+Bagaimana cara menjaga kadar gula darah selama kehamilan?,pertanyaan_umum_kehamilan
+Apakah boleh ibu hamil mengangkat beban berat?,pertanyaan_umum_kehamilan
+Bagaimana cara mengatasi mual dan muntah yang berlebihan di awal kehamilan?,pertanyaan_umum_kehamilan
+Apakah ibu hamil boleh minum teh hijau setiap hari?,pertanyaan_umum_kehamilan
+Bagaimana tanda-tanda kekurangan zat besi pada ibu hamil?,pertanyaan_umum_kehamilan
+Apakah aman melakukan pijat punggung saat hamil?,pertanyaan_umum_kehamilan
+Bagaimana cara menjaga kesehatan gigi selama kehamilan?,pertanyaan_umum_kehamilan
+Apakah normal jika ibu hamil mengalami mimisan?,pertanyaan_umum_kehamilan
+Bagaimana cara mengatasi rasa panas di ulu hati saat hamil?,pertanyaan_umum_kehamilan
+Kenapa ibu hamil sering merasa kesemutan di tangan atau kaki?,pertanyaan_umum_kehamilan
+Apakah aman bagi ibu hamil mengonsumsi makanan pedas setiap hari?,pertanyaan_umum_kehamilan
+Bagaimana cara mengurangi bengkak di kaki saat hamil?,pertanyaan_umum_kehamilan
+Apakah normal jika janin bergerak sangat sedikit di pagi hari?,pertanyaan_umum_kehamilan
+Bagaimana cara menjaga daya tahan tubuh selama hamil?,pertanyaan_umum_kehamilan
+Apakah ibu hamil boleh tidur telentang di trimester ketiga?,pertanyaan_umum_kehamilan
+Kenapa ibu hamil sering buang air kecil di malam hari?,pertanyaan_umum_kehamilan
+Apakah aman makan sushi bagi ibu hamil?,pertanyaan_umum_kehamilan
+Bagaimana cara memastikan posisi tidur yang paling baik saat hamil?,pertanyaan_umum_kehamilan
+Apakah normal jika ibu hamil merasa emosinya naik turun?,pertanyaan_umum_kehamilan
+Bagaimana cara mengatasi rasa gatal di perut yang membesar?,pertanyaan_umum_kehamilan
+Apakah ibu hamil boleh melakukan perjalanan darat jauh lebih dari 6 jam?,pertanyaan_umum_kehamilan
+Bagaimana cara membedakan nyeri punggung biasa dan tanda persalinan?,pertanyaan_umum_kehamilan
+Apakah saya sudah mendapatkan imunisasi TT lengkap?,imunisasi_tracker
+Kapan jadwal imunisasi TT berikutnya untuk saya?,imunisasi_tracker
+Tolong cek catatan imunisasi di buku KIA saya,imunisasi_tracker
+Imunisasi apa saja yang belum saya terima selama hamil ini?,imunisasi_tracker
+Saya mau tahu kapan terakhir imunisasi TT1 saya,imunisasi_tracker
+Kapan saya harus melakukan imunisasi TT2?,imunisasi_tracker
+Apakah saya sudah imunisasi TT3?,imunisasi_tracker
+Tolong jadwalkan imunisasi rubella untuk saya,imunisasi_tracker
+Imunisasi apa yang harus dilakukan di trimester kedua?,imunisasi_tracker
+"Saya belum imunisasi COVID-19, bisa dijadwalkan?",imunisasi_tracker
+Kapan terakhir saya imunisasi influenza?,imunisasi_tracker
+Apakah saya sudah dapat vaksin tetanus lengkap?,imunisasi_tracker
+Tolong tampilkan riwayat imunisasi terakhir saya,imunisasi_tracker
+Saya mau tahu imunisasi yang sudah dan belum saya dapatkan,imunisasi_tracker
+Kapan jadwal imunisasi TT booster saya?,imunisasi_tracker
+Imunisasi TT pertama saya kapan dilakukan?,imunisasi_tracker
+Tolong catat jadwal imunisasi saya bulan depan,imunisasi_tracker
+Apakah saya perlu imunisasi hepatitis B saat hamil?,imunisasi_tracker
+Imunisasi apa yang disarankan dokter untuk saya?,imunisasi_tracker
+Saya mau lihat catatan vaksinasi lengkap saya,imunisasi_tracker
+Kapan jadwal imunisasi TT terakhir di kehamilan ini?,imunisasi_tracker
+Apakah saya sudah imunisasi sesuai anjuran bidan?,imunisasi_tracker
+Saya mau tahu status vaksin tetanus saya sekarang,imunisasi_tracker
+Imunisasi apa saja yang aman untuk ibu hamil?,imunisasi_tracker
+Apakah saya sudah imunisasi TT lengkap sebelum hamil?,imunisasi_tracker
+Tolong cek kapan terakhir saya vaksin influenza,imunisasi_tracker
+"Saya belum pernah vaksin TT, jadwalkan dong",imunisasi_tracker
+Kapan saya harus imunisasi booster TT?,imunisasi_tracker
+Saya mau tahu apakah imunisasi TT saya sudah lengkap,imunisasi_tracker
+Imunisasi TT kedua saya kapan dijadwalkan?,imunisasi_tracker
+Apakah saya perlu vaksin tambahan selain TT?,imunisasi_tracker
+Tolong catat imunisasi TT yang baru saya lakukan,imunisasi_tracker
+Saya mau tahu jadwal vaksin hepatitis berikutnya,imunisasi_tracker
+Apakah imunisasi TT bisa dilakukan bersamaan dengan vaksin flu?,imunisasi_tracker
+Saya ingin cek status imunisasi di catatan kesehatan saya,imunisasi_tracker
+Kapan terakhir saya mendapatkan vaksin TT booster?,imunisasi_tracker
+Saya mau tahu imunisasi wajib saat hamil,imunisasi_tracker
+Tolong update jadwal vaksin saya di sistem,imunisasi_tracker
+Kapan waktu terbaik imunisasi TT pada kehamilan ini?,imunisasi_tracker
+Apakah saya sudah dijadwalkan untuk imunisasi rubella?,imunisasi_tracker
+Imunisasi TT4 saya kapan dijadwalkan?,imunisasi_tracker
+Tolong ingatkan jadwal imunisasi TT minggu depan,imunisasi_tracker
+Apakah imunisasi TT harus diulang jika sudah pernah dapat?,imunisasi_tracker
+Saya mau tahu apakah saya sudah vaksin lengkap sesuai trimester,imunisasi_tracker
+Apakah saya boleh vaksin flu di trimester pertama?,imunisasi_tracker
+Tolong catat saya baru saja vaksin TT hari ini,imunisasi_tracker
+Kapan jadwal imunisasi TT terakhir sebelum melahirkan?,imunisasi_tracker
+Apakah saya perlu vaksin tambahan sebelum persalinan?,imunisasi_tracker
+Tolong update berat badan saya jadi 62 kg,anc_tracker
+Tolong cek hasil pemeriksaan hemoglobin terakhir,anc_tracker
+Berapa berat badan saya saat kunjungan ANC terakhir?,anc_tracker
+Cek catatan lingkar lengan atas terakhir saya,anc_tracker
+Saya mau lihat detak jantung janin terakhir,anc_tracker
+Tolong catat berat badan hamil minggu ini 64 kg,anc_tracker
+Kapan terakhir saya periksa tekanan darah?,anc_tracker
+Tolong tampilkan hasil pemeriksaan laboratorium ANC terakhir,anc_tracker
+Saya mau tahu tinggi fundus uteri terakhir,anc_tracker
+Cek riwayat tekanan darah saya selama kehamilan,anc_tracker
+Tolong catat lingkar perut saya hari ini 90 cm,anc_tracker
+Apakah berat badan saya sesuai target kehamilan?,anc_tracker
+Saya mau tahu kadar HB terakhir saya,anc_tracker
+Tolong update catatan ANC dengan hasil pemeriksaan kemarin,anc_tracker
+Cek hasil pemeriksaan urine terakhir di ANC,anc_tracker
+Saya mau lihat grafik pertambahan berat badan saya,anc_tracker
+Tolong catat detak jantung bayi 145 bpm,anc_tracker
+Kapan terakhir saya periksa lingkar lengan atas?,anc_tracker
+Tolong tampilkan semua catatan pemeriksaan ANC,anc_tracker
+Saya mau tahu status gizi saya dari catatan ANC,anc_tracker
+Cek apakah tekanan darah saya normal di kunjungan terakhir,anc_tracker
+Tolong catat hasil pemeriksaan fisik hari ini,anc_tracker
+Saya mau lihat jadwal pemeriksaan ANC berikutnya,anc_tracker
+Berapa kenaikan berat badan saya bulan ini?,anc_tracker
+Tolong tampilkan catatan pemeriksaan trimester kedua,anc_tracker
+Saya mau tahu hasil pemeriksaan kandungan terakhir,anc_tracker
+Cek hasil pemeriksaan ultrasonografi terakhir,anc_tracker
+Tolong catat tekanan darah 115/75 di catatan ANC,anc_tracker
+Apakah detak jantung janin normal minggu ini?,anc_tracker
+Saya mau lihat riwayat tinggi fundus uteri,anc_tracker
+Tolong catat hasil pemeriksaan gula darah hamil,anc_tracker
+Kapan terakhir saya cek tekanan darah dan berat badan?,anc_tracker
+Tolong tampilkan grafik perkembangan kehamilan,anc_tracker
+Saya mau tahu hasil pemeriksaan ANC terakhir secara lengkap,anc_tracker
+Cek semua hasil pemeriksaan bulan lalu,anc_tracker
+Tolong catat lingkar lengan atas 28 cm hari ini,anc_tracker
+Apakah berat badan saya naik terlalu cepat?,anc_tracker
+Saya mau lihat riwayat hasil laboratorium ANC,anc_tracker
+Tolong catat hasil pemeriksaan protein urine,anc_tracker
+Berapa berat badan bayi menurut USG terakhir?,anc_tracker
+Tolong tampilkan semua catatan pemeriksaan fisik kehamilan,anc_tracker
+Saya mau tahu apakah ada catatan ANC yang terlewat,anc_tracker
+"Tolong catat suhu tubuh saya hari ini 36,7°C",anc_tracker
+Cek riwayat tekanan darah trimester ketiga,anc_tracker
+Tolong kirim jadwal ANC saya bulan ini,reminder_kontrol_kehamilan
+Kapan jadwal pemeriksaan kandungan berikutnya?,reminder_kontrol_kehamilan
+Saya mau tahu jadwal kontrol kehamilan trimester terakhir,reminder_kontrol_kehamilan
+Tolong atur jadwal kontrol saya sesuai rekomendasi dokter,reminder_kontrol_kehamilan
+Kapan saya harus kontrol lagi setelah USG terakhir?,reminder_kontrol_kehamilan
+Jadwalkan pemeriksaan rutin bulan depan,reminder_kontrol_kehamilan
+Kapan pemeriksaan ANC berikutnya dijadwalkan?,reminder_kontrol_kehamilan
+Tolong kirimkan notifikasi kontrol kehamilan saya,reminder_kontrol_kehamilan
+Saya mau tahu kapan jadwal ANC trimester kedua,reminder_kontrol_kehamilan
+Kapan jadwal kontrol kandungan yang disarankan bidan?,reminder_kontrol_kehamilan
+Tolong pastikan jadwal kontrol saya tidak bentrok,reminder_kontrol_kehamilan
+Kapan saya harus kembali periksa ke puskesmas?,reminder_kontrol_kehamilan
+Saya mau jadwal kontrol kehamilan disesuaikan dengan cuti saya,reminder_kontrol_kehamilan
+Tolong ingatkan jadwal ANC saya besok pagi,reminder_kontrol_kehamilan
+Kapan saya harus kontrol lagi setelah melahirkan?,reminder_kontrol_kehamilan
+Tolong atur ulang jadwal kontrol yang kemarin tertunda,reminder_kontrol_kehamilan
+Saya mau jadwal pemeriksaan trimester ketiga,reminder_kontrol_kehamilan
+Kapan jadwal ANC terakhir sebelum HPL?,reminder_kontrol_kehamilan
+Tolong buat pengingat kontrol setiap 2 minggu,reminder_kontrol_kehamilan
+Kapan jadwal kontrol kandungan yang ideal untuk saya?,reminder_kontrol_kehamilan
+Saya mau tahu kapan harus periksa gigi sesuai jadwal kehamilan,reminder_kontrol_kehamilan
+Jadwalkan pemeriksaan kehamilan di minggu ke-36,reminder_kontrol_kehamilan
+Kapan pemeriksaan ANC berikutnya sesuai buku KIA?,reminder_kontrol_kehamilan
+Tolong konfirmasi jadwal kontrol saya di rumah sakit,reminder_kontrol_kehamilan
+Saya mau jadwal kontrol tambahan karena keluhan tertentu,reminder_kontrol_kehamilan
+Kapan jadwal kontrol yang direkomendasikan dokter kandungan?,reminder_kontrol_kehamilan
+Tolong kirim jadwal ANC melalui WhatsApp,reminder_kontrol_kehamilan
+Saya mau tahu jadwal pemeriksaan kandungan rutin,reminder_kontrol_kehamilan
+Tolong pastikan saya kontrol tepat waktu minggu ini,reminder_kontrol_kehamilan
+Kapan jadwal pemeriksaan terakhir tercatat di sistem?,reminder_kontrol_kehamilan
+Saya mau atur jadwal kontrol sesuai rencana persalinan,reminder_kontrol_kehamilan
+Tolong ingatkan kontrol kehamilan saya setiap tanggal 10,reminder_kontrol_kehamilan
+Kapan jadwal pemeriksaan darah untuk kehamilan saya?,reminder_kontrol_kehamilan
+Tolong atur jadwal kontrol jarak dekat karena risiko tinggi,reminder_kontrol_kehamilan
+Saya mau jadwal pemeriksaan sesuai protokol kesehatan ibu hamil,reminder_kontrol_kehamilan
+Kapan jadwal ANC di trimester pertama saya?,reminder_kontrol_kehamilan
+Tolong catat jadwal kontrol di kalender saya,reminder_kontrol_kehamilan
+Saya mau tahu kapan jadwal kontrol setelah imunisasi,reminder_kontrol_kehamilan
+Kapan jadwal ANC terakhir sebelum operasi caesar?,reminder_kontrol_kehamilan
+Tolong buatkan jadwal kontrol sampai HPL,reminder_kontrol_kehamilan
+Saya mau ingatkan diri untuk kontrol setiap minggu mulai bulan depan,reminder_kontrol_kehamilan
+Kapan jadwal kontrol berikutnya di bidan desa?,reminder_kontrol_kehamilan
+Barang apa saja yang harus saya bawa untuk persalinan?,panduan_persiapan_persalinan
+Tolong buatkan daftar persiapan melahirkan caesar,panduan_persiapan_persalinan
+Apa saja yang perlu disiapkan untuk melahirkan di rumah sakit?,panduan_persiapan_persalinan
+Persiapan lahiran apa yang penting untuk ibu hamil pertama?,panduan_persiapan_persalinan
+Bagaimana cara mempersiapkan fisik sebelum melahirkan?,panduan_persiapan_persalinan
+Tolong jelaskan langkah-langkah persiapan persalinan,panduan_persiapan_persalinan
+Apa yang harus saya bawa ke ruang bersalin?,panduan_persiapan_persalinan
+Checklist apa yang harus dipenuhi sebelum persalinan?,panduan_persiapan_persalinan
+Bagaimana cara mengatasi rasa takut menjelang lahiran?,panduan_persiapan_persalinan
+Apa saja dokumen yang harus dibawa saat melahirkan?,panduan_persiapan_persalinan
+Tolong berikan panduan lengkap persiapan lahiran,panduan_persiapan_persalinan
+Apa yang harus disiapkan jika melahirkan di bidan desa?,panduan_persiapan_persalinan
+Bagaimana cara mempersiapkan suami untuk mendampingi persalinan?,panduan_persiapan_persalinan
+Apa perlengkapan pribadi yang wajib dibawa saat lahiran?,panduan_persiapan_persalinan
+Tolong susun rencana persalinan saya,panduan_persiapan_persalinan
+Barang-barang apa yang dibutuhkan untuk persalinan darurat?,panduan_persiapan_persalinan
+Bagaimana mempersiapkan persalinan di rumah?,panduan_persiapan_persalinan
+Apa yang harus dipersiapkan jika HPL semakin dekat?,panduan_persiapan_persalinan
+Tolong buatkan list barang untuk tas persalinan,panduan_persiapan_persalinan
+Bagaimana persiapan mental dan fisik untuk melahirkan?,panduan_persiapan_persalinan
+Apa saja yang harus dibeli menjelang kelahiran bayi?,panduan_persiapan_persalinan
+Tolong jelaskan perlengkapan untuk ibu setelah melahirkan,panduan_persiapan_persalinan
+Apa tips mempersiapkan diri menghadapi proses persalinan?,panduan_persiapan_persalinan
+Bagaimana cara packing tas untuk melahirkan?,panduan_persiapan_persalinan
+Tolong berikan panduan melahirkan dengan nyaman,panduan_persiapan_persalinan
+Apa persiapan penting sebelum menjalani operasi caesar?,panduan_persiapan_persalinan
+Bagaimana mempersiapkan transportasi menuju rumah sakit?,panduan_persiapan_persalinan
+Apa saja makanan yang sebaiknya disiapkan sebelum persalinan?,panduan_persiapan_persalinan
+Tolong buatkan rencana persalinan sesuai kondisi saya,panduan_persiapan_persalinan
+Bagaimana cara menjaga stamina menjelang lahiran?,panduan_persiapan_persalinan
+Apa yang harus dibawa untuk persalinan di klinik bersalin?,panduan_persiapan_persalinan
+Tolong buatkan panduan persalinan tanpa rasa sakit,panduan_persiapan_persalinan
+Apa yang harus saya siapkan jika melahirkan jauh dari rumah?,panduan_persiapan_persalinan
+Bagaimana cara memastikan semua kebutuhan persalinan terpenuhi?,panduan_persiapan_persalinan
+Apa saja obat dan perlengkapan medis yang perlu dibawa?,panduan_persiapan_persalinan
+Tolong buat daftar belanja persiapan lahiran,panduan_persiapan_persalinan
+Apa yang perlu disiapkan untuk menyusui setelah lahiran?,panduan_persiapan_persalinan
+Bagaimana mempersiapkan rumah untuk menyambut bayi?,panduan_persiapan_persalinan
+Tolong berikan tips persiapan lahiran untuk ibu bekerja,panduan_persiapan_persalinan
+Apa saja barang yang wajib ada di tas persalinan?,panduan_persiapan_persalinan
+Bagaimana cara mempersiapkan mental untuk persalinan pertama?,panduan_persiapan_persalinan
+Apa yang harus dibawa jika melahirkan saat pandemi?,panduan_persiapan_persalinan
+Tolong susun checklist persiapan persalinan sesuai trimester,panduan_persiapan_persalinan
+Bagaimana mempersiapkan diri menghadapi tanda-tanda lahiran?,panduan_persiapan_persalinan
+Saya mau lihat daftar semua suplemen yang sudah saya konsumsi,riwayat_suplemen_kehamilan
+Tolong cek apakah saya sudah rutin minum asam folat,riwayat_suplemen_kehamilan
+Tolong perbarui catatan konsumsi tablet Fe,riwayat_suplemen_kehamilan
+Catat saya baru saja minum minyak ikan hari ini,riwayat_suplemen_kehamilan
+Saya mau lihat riwayat minum kalsium saya bulan lalu,riwayat_suplemen_kehamilan
+Apa saya sudah minum vitamin E minggu ini?,riwayat_suplemen_kehamilan
+Tolong tampilkan catatan minum zat besi selama trimester pertama,riwayat_suplemen_kehamilan
+Saya mau tahu apakah catatan suplemen saya lengkap,riwayat_suplemen_kehamilan
+Tolong catat saya minum probiotik hari ini,riwayat_suplemen_kehamilan
+Saya mau cek apakah saya pernah minum vitamin K,riwayat_suplemen_kehamilan
+Kapan saya terakhir minum suplemen omega-3?,riwayat_suplemen_kehamilan
+Tolong update catatan minum vitamin B12,riwayat_suplemen_kehamilan
+Saya mau tahu jadwal rutin minum suplemen saya,riwayat_suplemen_kehamilan
+Catat bahwa saya hari ini minum vitamin prenatal,riwayat_suplemen_kehamilan
+Saya mau lihat data konsumsi vitamin dari awal hamil,riwayat_suplemen_kehamilan
+Tolong tampilkan grafik konsumsi suplemen saya,riwayat_suplemen_kehamilan
+Apakah saya pernah lupa minum tablet Fe?,riwayat_suplemen_kehamilan
+Saya mau tahu berapa kali saya minum kalsium bulan ini,riwayat_suplemen_kehamilan
+Tolong catat saya sudah minum multivitamin,riwayat_suplemen_kehamilan
+Tolong cek riwayat minum minyak ikan selama hamil,riwayat_suplemen_kehamilan
+Apa saya sudah minum vitamin A sesuai anjuran?,riwayat_suplemen_kehamilan
+Catat saya baru minum suplemen zat besi,riwayat_suplemen_kehamilan
+Saya mau lihat jadwal minum asam folat saya,riwayat_suplemen_kehamilan
+Tolong tampilkan data konsumsi suplemen dari trimester kedua,riwayat_suplemen_kehamilan
+Saya mau tahu kapan saya mulai minum vitamin D,riwayat_suplemen_kehamilan
+Apakah saya rutin minum kalsium setiap hari?,riwayat_suplemen_kehamilan
+Tolong catat saya minum suplemen herbal kehamilan,riwayat_suplemen_kehamilan
+Saya mau tahu riwayat konsumsi probiotik saya,riwayat_suplemen_kehamilan
+Tolong cek apakah saya pernah minum vitamin B6,riwayat_suplemen_kehamilan
+Saya mau lihat riwayat minum vitamin B1 dan B2,riwayat_suplemen_kehamilan
+Kapan terakhir saya minum suplemen magnesium?,riwayat_suplemen_kehamilan
+Tolong perbarui catatan suplemen saya hari ini,riwayat_suplemen_kehamilan
+Saya mau lihat catatan minum vitamin tiap minggu,riwayat_suplemen_kehamilan
+Tolong catat bahwa saya hari ini tidak minum suplemen,riwayat_suplemen_kehamilan
+Saya mau tahu total suplemen yang sudah diminum,riwayat_suplemen_kehamilan
+Catat saya sudah minum vitamin B kompleks pagi ini,riwayat_suplemen_kehamilan
+Tolong tampilkan catatan konsumsi zat besi di trimester ketiga,riwayat_suplemen_kehamilan

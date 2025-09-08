@@ -1,0 +1,2 @@
+id_persalinan,id_kehamilan,tanggal_lahir,tempat_lahir,cara_persalinan,jenis_kelamin_bayi,berat_bayi,panjang_bayi,komplikasi
+PRS001,KEH001,2025-10-20,"RS Umum Bandung","Normal","Perempuan",3200,49,"Tidak ada"

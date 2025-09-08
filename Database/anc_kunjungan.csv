@@ -1,0 +1,4 @@
+id_kunjungan,id_kehamilan,tanggal_kunjungan,usia_kehamilan,tekanan_darah,berat_badan,tinggi_fundus,denyut_janin,lingkar_lengan,edema,keluhan,pemeriksaan_laboratorium,tindakan_diberikan,diperiksa_oleh
+ANC001,KEH001,2025-03-10,8,"110/70",56.2,8,150,26,FALSE,"Mual di pagi hari","Hb: 12 g/dL","Tablet Fe","Bidan Ani"
+ANC002,KEH001,2025-05-15,18,"115/75",58.0,16,152,26,FALSE,"Sedikit pusing","Hb: 11.5 g/dL","Tablet Fe, Asam Folat","Bidan Ani"
+ANC003,KEH001,2025-07-20,28,"120/80",62.0,26,148,27,TRUE,"Kaki bengkak","Protein urin: Negatif","Konseling gizi, Tablet Fe","Bidan Sari"

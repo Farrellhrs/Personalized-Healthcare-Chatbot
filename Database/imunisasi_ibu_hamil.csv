@@ -1,0 +1,3 @@
+id_imunisasi,id_kehamilan,tanggal_pemberian,jenis_imunisasi,dosis_ke,catatan
+IMU001,KEH001,2025-02-05,"TT1",1,"Tidak ada efek samping"
+IMU002,KEH001,2025-03-15,"TT2",2,"Lengan sedikit nyeri"

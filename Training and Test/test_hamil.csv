@@ -1,0 +1,263 @@
+﻿text,label,intent
+Tampilkan informasi vaksin yang pernah diberikan,1,imunisasi_tracker
+Tolong periksa tekanan darah di minggu ke 32,0,anc_tracker
+Bisa tampilkan grafik tinggi fundus saya?,0,anc_tracker
+Ada catatan lahiran anak pertama?,4,riwayat_persalinan
+"Peralatan bayi apa yang harus sudah disiapkan sebelum lahir?,panduan_persiapan_persalinan
+Apa saja tanda-tanda tubuh sudah siap untuk persalinan?",2,panduan_persiapan_persalinan
+Saya ingin tahu apakah ada catatan alergi dari suplemen,5,riwayat_suplemen_kehamilan
+Coba tampilkan jenis kelamin bayi lahir,4,riwayat_persalinan
+Saya ingin tahu apakah dulu melahirkan normal atau SC,4,riwayat_persalinan
+Cek denyut jantung janin yang terakhir diperiksa,0,anc_tracker
+Saya ingin lihat berat badan saat usia 20 minggu,0,anc_tracker
+Coba tunjukkan imunisasi hamil yang pernah saya jalani,1,imunisasi_tracker
+Saya ingin melihat semua suplemen yang diresepkan saat hamil,5,riwayat_suplemen_kehamilan
+Tolong tampilkan data imunisasi TT selama hamil,1,imunisasi_tracker
+Saya ingin mengecek semua data kelahiran saya,4,riwayat_persalinan
+Tolong tampilkan data imunisasi yang pernah saya terima,1,imunisasi_tracker
+Saya ingin tahu berat bayi pertama saya saat lahir,4,riwayat_persalinan
+Tolong tunjukkan riwayat kunjungan kehamilan saya,0,anc_tracker
+Saya ingin lihat riwayat kelahiran dengan caesar,4,riwayat_persalinan
+Ada pengingat jadwal kontrol hamil saya?,3,reminder_kontrol_kehamilan
+Ada catatan suplemen yang diberikan oleh bidan?,5,riwayat_suplemen_kehamilan
+"Pengingat jadwal ANC: Senin, 25 September.",3,reminder_kontrol_kehamilan
+Berapa kali saya sudah imunisasi selama hamil?,1,imunisasi_tracker
+Kapan jadwal kunjungan hamil saya berikutnya?,3,reminder_kontrol_kehamilan
+Tolong cek imunisasi yang diberikan selama hamil,1,imunisasi_tracker
+Tolong tampilkan detail persalinan dengan komplikasi,4,riwayat_persalinan
+Ada data tekanan darah saya terakhir?,0,anc_tracker
+"Sudah waktunya kontrol kehamilan lagi, jadwal ibu: 9 November.",3,reminder_kontrol_kehamilan
+"Apa persiapan administrasi sebelum masuk rumah sakit untuk persalinan?,panduan_persiapan_persalinan
+Apa saja dokumen penting yang perlu dibawa saat melahirkan?",2,panduan_persiapan_persalinan
+Tolong cek riwayat vaksinasi TT ibu hamil,1,imunisasi_tracker
+"Apakah meditasi bisa membantu persiapan melahirkan?,panduan_persiapan_persalinan
+Bagaimana cara menyiapkan ASI sebelum persalinan?",2,panduan_persiapan_persalinan
+Lihat catatan lengkap kunjungan hamil,0,anc_tracker
+Coba cek riwayat imunisasi saya,1,imunisasi_tracker
+Saya mau lihat catatan konsumsi vitamin E,5,riwayat_suplemen_kehamilan
+"Apakah perlu konsultasi khusus sebelum buat birth plan?,panduan_persiapan_persalinan
+Bagaimana menyiapkan mental untuk kemungkinan operasi caesar?",2,panduan_persiapan_persalinan
+Cek cara persalinan pada kelahiran sebelumnya,4,riwayat_persalinan
+Reminder: Jangan sampai terlewat kontrol kehamilan minggu depan.,3,reminder_kontrol_kehamilan
+Saya mau lihat catatan pemeriksaan kehamilan terakhir,0,anc_tracker
+Saya ingin melihat riwayat suplemen selama kehamilan,5,riwayat_suplemen_kehamilan
+Saya mau lihat riwayat pemberian vaksin TT,1,imunisasi_tracker
+Saya ingin melihat hasil pemeriksaan fisik kehamilan,0,anc_tracker
+Coba tampilkan data imunisasi hamil saya,1,imunisasi_tracker
+Ada catatan lahiran anak pertama di rumah?,4,riwayat_persalinan
+Ada notifikasi jadwal ANC saya nggak?,3,reminder_kontrol_kehamilan
+Ada catatan berat bayi saat lahir?,4,riwayat_persalinan
+Saya ingin tahu catatan konsumsi zat besi,5,riwayat_suplemen_kehamilan
+Coba lihat panjang badan bayi saat lahir,4,riwayat_persalinan
+Kapan saya dapat imunisasi TT terakhir?,1,imunisasi_tracker
+"Apakah ada makanan yang sebaiknya dihindari sebelum melahirkan?,panduan_persiapan_persalinan
+Bagaimana cara menjaga stamina agar kuat saat melahirkan?",2,panduan_persiapan_persalinan
+Checklist tas melahirkan untuk ibu hamil,2,panduan_persiapan_persalinan
+Saya ingin lihat jumlah tablet yang saya terima bulan lalu,5,riwayat_suplemen_kehamilan
+Ada data imunisasi COVID-19 untuk saya?,1,imunisasi_tracker
+Kapan saya harus cek kandungan lagi?,3,reminder_kontrol_kehamilan
+Saya ingin tahu kapan pertama kali diberi asam folat,5,riwayat_suplemen_kehamilan
+Apa saja yang harus dipersiapkan menjelang persalinan?,2,panduan_persiapan_persalinan
+Harap hadir sesuai jadwal untuk pemeriksaan ANC selanjutnya.,3,reminder_kontrol_kehamilan
+Tolong tampilkan catatan imunisasi ibu hamil yang tersimpan,1,imunisasi_tracker
+"Apa saja yang harus dipersiapkan menjelang persalinan?,panduan_persiapan_persalinan
+Bagaimana cara mempersiapkan tubuh agar siap melahirkan?",2,panduan_persiapan_persalinan
+Apakah ada riwayat imunisasi untuk kehamilan saya?,1,imunisasi_tracker
+Bagaimana cara memilih bidan atau dokter untuk persalinan?,2,panduan_persiapan_persalinan
+Ada catatan melahirkan di rumah sakit?,4,riwayat_persalinan
+Tolong kasih tahu jadwal kunjungan hamil berikutnya.,3,reminder_kontrol_kehamilan
+Tolong tampilkan semua catatan suplemen trimester kedua,5,riwayat_suplemen_kehamilan
+Tolong tampilkan imunisasi yang pernah saya dapatkan,1,imunisasi_tracker
+Lihat catatan pemeriksaan kehamilan terbaru.,0,anc_tracker
+Tolong cek data efek samping suplemen yang tercatat,5,riwayat_suplemen_kehamilan
+Saya ingin tahu semua data persalinan terdahulu,4,riwayat_persalinan
+Notifikasi: Jadwal ANC ibu berikutnya adalah 2 November.,3,reminder_kontrol_kehamilan
+Notifikasi: Pemeriksaan ANC berikutnya tanggal 14 Oktober.,3,reminder_kontrol_kehamilan
+"Ingat ya bu, jadwal ANC selanjutnya ada minggu depan.",3,reminder_kontrol_kehamilan
+Ada riwayat pemberian vitamin D3?,5,riwayat_suplemen_kehamilan
+Lihat riwayat imunisasi hamil saya,1,imunisasi_tracker
+Saya ingin tahu catatan konsumsi kalsium trimester 2,5,riwayat_suplemen_kehamilan
+Saya mau tahu tempat lahiran di rumah sakit,4,riwayat_persalinan
+Apa ada keluhan yang pernah dicatat di kunjungan?,0,anc_tracker
+Saya mau tahu jumlah tablet yang saya dapatkan per kunjungan,5,riwayat_suplemen_kehamilan
+Saya mau lihat data cara melahirkan anak kedua,4,riwayat_persalinan
+Saya mau cek dosis suplemen yang pernah diberikan,5,riwayat_suplemen_kehamilan
+Apa yang harus dipersiapkan jika terjadi komplikasi saat persalinan?,2,panduan_persiapan_persalinan
+Notifikasi: Jadwal kunjungan ANC ibu 30 September.,3,reminder_kontrol_kehamilan
+Ada catatan dosis imunisasi yang saya dapatkan?,1,imunisasi_tracker
+Harap hadir untuk ANC minggu depan sesuai catatan medis.,3,reminder_kontrol_kehamilan
+Bagaimana riwayat imunisasi TT1 dan TT2 saya?,1,imunisasi_tracker
+Apa saja persiapan administrasi sebelum melahirkan di rumah sakit?,2,panduan_persiapan_persalinan
+Reminder: Pemeriksaan ANC selanjutnya tanggal 25 September.,3,reminder_kontrol_kehamilan
+Notifikasi: Sudah waktunya pemeriksaan kehamilan ibu.,3,reminder_kontrol_kehamilan
+Saya ingin tahu jenis kelamin bayi lahir kedua,4,riwayat_persalinan
+Tolong periksa apakah imunisasi COVID-19 sudah tercatat,1,imunisasi_tracker
+"Perlengkapan apa yang wajib dibawa ke rumah sakit?,panduan_persiapan_persalinan
+Tolong jelaskan checklist persiapan melahirkan",2,panduan_persiapan_persalinan
+Notifikasi: Jadwal kunjungan ANC berikutnya adalah tanggal 22 September.,3,reminder_kontrol_kehamilan
+Saya mau cek ada edema atau tidak di kunjungan terakhir,0,anc_tracker
+Siapa bidan yang memeriksa saya di bulan lalu?,0,anc_tracker
+Saya ingin melihat imunisasi kehamilan yang tercatat,1,imunisasi_tracker
+Ada jadwal kunjungan ANC saya selanjutnya?,3,reminder_kontrol_kehamilan
+Apa hasil pemeriksaan urine dan Hb pada ANC terakhir?,0,anc_tracker
+Saya ingin lihat catatan kelahiran di rumah,4,riwayat_persalinan
+Tolong tampilkan catatan konsumsi kalsium trimester 2,5,riwayat_suplemen_kehamilan
+Apakah penting mengikuti kelas senam hamil untuk persiapan persalinan?,2,panduan_persiapan_persalinan
+Bisa tampilkan riwayat tekanan darah saat hamil?,0,anc_tracker
+Ingatkan saya kapan harus kontrol kandungan lagi.,3,reminder_kontrol_kehamilan
+Apa yang perlu dipersiapkan jika ingin melahirkan di rumah?,2,panduan_persiapan_persalinan
+Coba tampilkan catatan konsumsi suplemen trimester ketiga,5,riwayat_suplemen_kehamilan
+"Apa saja perlengkapan rumah yang perlu disiapkan untuk bayi?,panduan_persiapan_persalinan
+Apakah perlu menyiapkan kamar khusus bayi?",2,panduan_persiapan_persalinan
+Saya mau tahu jadwal imunisasi terakhir saya,1,imunisasi_tracker
+"Bagaimana suami bisa mendampingi istri sebelum persalinan?,panduan_persiapan_persalinan
+Peran keluarga apa yang penting saat persiapan melahirkan?",2,panduan_persiapan_persalinan
+Notifikasi: Pemeriksaan kehamilan selanjutnya tanggal 29 September.,3,reminder_kontrol_kehamilan
+Saya mau tahu apakah persalinan dulu normal atau SC,4,riwayat_persalinan
+Apa saja strategi agar tetap positif menjelang melahirkan?,2,panduan_persiapan_persalinan
+Bagaimana menyiapkan kondisi emosional untuk menghadapi persalinan?,2,panduan_persiapan_persalinan
+Saya ingin lihat tekanan darah terkini,0,anc_tracker
+Tolong tampilkan berat lahir bayi perempuan,4,riwayat_persalinan
+Ada jadwal kontrol kandungan minggu depan?,3,reminder_kontrol_kehamilan
+Reminder: Sudah waktunya kontrol ANC.,3,reminder_kontrol_kehamilan
+Notifikasi: Pemeriksaan ANC berikutnya tanggal 11 Oktober.,3,reminder_kontrol_kehamilan
+"Apa langkah awal untuk persiapan melahirkan normal?,panduan_persiapan_persalinan
+Bagaimana persiapan jika kemungkinan operasi caesar?",2,panduan_persiapan_persalinan
+Tanggal 15 Oktober jadwal ANC ibu berikutnya. Mohon hadir.,3,reminder_kontrol_kehamilan
+Ada catatan melahirkan di rumah bidan?,4,riwayat_persalinan
+Kontrol kehamilan ibu selanjutnya tanggal 30 Oktober.,3,reminder_kontrol_kehamilan
+Lihat data berat badan ibu hamil,0,anc_tracker
+Saya mau tahu hasil detak jantung janin tiap kunjungan,0,anc_tracker
+Periksa catatan tindakan rujukan dari ANC,0,anc_tracker
+Jadwal kunjungan kandungan saya selanjutnya kapan ya?,3,reminder_kontrol_kehamilan
+Jangan lupa kontrol ANC tanggal 4 November.,3,reminder_kontrol_kehamilan
+Saya mau tahu tempat lahiran anak pertama,4,riwayat_persalinan
+Catatan imunisasi dosis keberapa sudah ada?,1,imunisasi_tracker
+Apakah perlu ikut kelas senam hamil untuk persiapan persalinan?,2,panduan_persiapan_persalinan
+Riwayat imunisasi TT saya gimana ya?,1,imunisasi_tracker
+Ada catatan imunisasi terakhir ibu hamil saya?,1,imunisasi_tracker
+Ada riwayat konsumsi vitamin E di catatan saya?,5,riwayat_suplemen_kehamilan
+Saya mau lihat suplemen yang diberikan pada kunjungan terakhir,5,riwayat_suplemen_kehamilan
+Coba tampilkan data pemeriksaan TFU,0,anc_tracker
+Saya mau lihat riwayat persalinan saya sebelumnya,4,riwayat_persalinan
+Saya ingin melihat data lahiran anak kedua,4,riwayat_persalinan
+Ada catatan pemberian tablet tambah darah?,5,riwayat_suplemen_kehamilan
+Saya ingin cek jenis kelamin bayi kedua,4,riwayat_persalinan
+Pengingat: Kontrol ANC ibu sudah dijadwalkan hari Kamis depan.,3,reminder_kontrol_kehamilan
+Saya mau cek catatan keluhan pusing terakhir,0,anc_tracker
+"Apa langkah penting untuk persiapan mental sebelum persalinan?,panduan_persiapan_persalinan
+Perlengkapan apa yang wajib dibawa ke rumah sakit saat melahirkan?",2,panduan_persiapan_persalinan
+Tolong tampilkan semua riwayat melahirkan,4,riwayat_persalinan
+Saya mau tahu catatan efek samping dari suplemen,5,riwayat_suplemen_kehamilan
+Tolong tampilkan cara persalinan anak pertama,4,riwayat_persalinan
+Ada riwayat pemberian suplemen di kunjungan awal hamil?,5,riwayat_suplemen_kehamilan
+Reminder: Jangan lupa hadir untuk kontrol ANC berikutnya.,3,reminder_kontrol_kehamilan
+"Apa saja langkah mengurangi rasa cemas menjelang persalinan?,panduan_persiapan_persalinan
+Tips menjaga ketenangan hati sebelum persalinan",2,panduan_persiapan_persalinan
+Saya ingin cek data pemeriksaan denyut janin,0,anc_tracker
+Apakah vaksin TT saya sudah tercatat?,1,imunisasi_tracker
+Tolong cek catatan persalinan dengan komplikasi,4,riwayat_persalinan
+Lihat data pemberian imunisasi ibu hamil,1,imunisasi_tracker
+Tolong tampilkan detail lahiran anak kedua saya,4,riwayat_persalinan
+Tolong tampilkan aturan minum suplemen yang direkam,5,riwayat_suplemen_kehamilan
+Saya mau lihat tekanan darah selama ANC,0,anc_tracker
+Tolong tampilkan riwayat persalinan normal saya,4,riwayat_persalinan
+Tolong tunjukkan pemeriksaan ANC lengkap bulan ini,0,anc_tracker
+Tampilkan data tinggi fundus uteri saya,0,anc_tracker
+"Pengingat jadwal kontrol ibu: Rabu, 24 September.",3,reminder_kontrol_kehamilan
+Saya ingin lihat semua pemberian Fe selama hamil,5,riwayat_suplemen_kehamilan
+Saya ingin lihat tempat melahirkan anak pertama,4,riwayat_persalinan
+"Lihat data tekanan darah, BB, dan TFU pada kunjungan terakhir.",0,anc_tracker
+Imunisasi ibu hamil yang saya dapat terakhir apa ya?,1,imunisasi_tracker
+Saya mau tahu efek samping dari suplemen yang diberikan,5,riwayat_suplemen_kehamilan
+Saya ingin cek kapan pertama kali dapat suplemen Fe,5,riwayat_suplemen_kehamilan
+Reminder: Pemeriksaan ANC minggu depan jangan terlewat.,3,reminder_kontrol_kehamilan
+Saya ingin melihat catatan vaksin selama kehamilan,1,imunisasi_tracker
+Reminder: Jangan sampai terlewat pemeriksaan ANC berikutnya.,3,reminder_kontrol_kehamilan
+"Bagaimana cara memilih bidan atau dokter untuk melahirkan?,panduan_persiapan_persalinan
+Apa pentingnya mengikuti kelas persiapan persalinan?",2,panduan_persiapan_persalinan
+Tampilkan tinggi fundus uteri terakhir,0,anc_tracker
+"Apakah ada posisi tidur terbaik untuk persiapan melahirkan?,panduan_persiapan_persalinan
+Bagaimana menyiapkan anak pertama agar siap punya adik?",2,panduan_persiapan_persalinan
+Saya mau lihat data persalinan anak ketiga,4,riwayat_persalinan
+Saya ingin melihat catatan ANC terbaru,0,anc_tracker
+Bagaimana data panjang badan bayi saat lahir dulu?,4,riwayat_persalinan
+Tips menjaga kondisi tubuh agar tetap kuat saat proses persalinan,2,panduan_persiapan_persalinan
+Tolong cek riwayat pemberian vitamin A selama hamil,5,riwayat_suplemen_kehamilan
+Ada data berapa kali saya minum tablet kalsium?,5,riwayat_suplemen_kehamilan
+Tolong tunjukkan riwayat imunisasi hamil saya,1,imunisasi_tracker
+Saya ingin tahu semua keluhan yang pernah dicatat,0,anc_tracker
+Ada catatan komplikasi pada persalinan kedua?,4,riwayat_persalinan
+Tolong tampilkan riwayat pemberian vitamin trimester kedua,5,riwayat_suplemen_kehamilan
+Saya ingin melihat aturan konsumsi kalsium karbonat,5,riwayat_suplemen_kehamilan
+Coba cek riwayat pemberian multivitamin,5,riwayat_suplemen_kehamilan
+Saya ingin tahu catatan pemberian vaksin hamil,1,imunisasi_tracker
+Ada catatan imunisasi COVID-19 untuk saya?,1,imunisasi_tracker
+Coba cek daftar vitamin dan mineral yang saya dapat,5,riwayat_suplemen_kehamilan
+"Apakah BPJS bisa digunakan untuk melahirkan?,panduan_persiapan_persalinan
+Hal administrasi apa yang biasanya dilupakan sebelum melahirkan?",2,panduan_persiapan_persalinan
+Tolong tunjukkan catatan pemeriksaan kehamilan terakhir saya,0,anc_tracker
+Apa hasil denyut jantung janin pada kunjungan terakhir?,0,anc_tracker
+Saya ingin cek catatan imunisasi dosis keberapa,1,imunisasi_tracker
+Tolong tampilkan riwayat denyut janin,0,anc_tracker
+Kapan kontrol hamil saya jatuh lagi?,3,reminder_kontrol_kehamilan
+Saya ingin tahu semua detail persalinan saya,4,riwayat_persalinan
+Saya perlu tahu catatan imunisasi kehamilan,1,imunisasi_tracker
+Ada data imunisasi ibu hamil yang sudah dicatat?,1,imunisasi_tracker
+Pengingat: Jadwal kontrol ANC selanjutnya sudah dekat.,3,reminder_kontrol_kehamilan
+Cek hasil ANC terkait tekanan darah dan DJJ.,0,anc_tracker
+Besok aku ada jadwal kontrol hamil nggak?,3,reminder_kontrol_kehamilan
+Notifikasi: Sudah waktunya kontrol kehamilan sesuai jadwal ANC.,3,reminder_kontrol_kehamilan
+Kontrol hamil minggu depan ada nggak?,3,reminder_kontrol_kehamilan
+Saya ingin lihat catatan pemberian vitamin D terbaru,5,riwayat_suplemen_kehamilan
+Saya ingin tahu apakah dulu melahirkan SC,4,riwayat_persalinan
+Tolong tampilkan riwayat pemberian zat besi,5,riwayat_suplemen_kehamilan
+Sudah saatnya kontrol ANC sesuai jadwal yang ditentukan.,3,reminder_kontrol_kehamilan
+Saya ingin cek total tablet folat yang pernah diterima,5,riwayat_suplemen_kehamilan
+Reminder: Pemeriksaan ANC ibu berikutnya dijadwalkan minggu depan.,3,reminder_kontrol_kehamilan
+"Apakah perlu menyiapkan transportasi khusus menuju rumah sakit?,panduan_persiapan_persalinan
+Bagaimana cara mengenali tanda persalinan akan segera dimulai?",2,panduan_persiapan_persalinan
+Saya mau lihat catatan suplemen trimester akhir,5,riwayat_suplemen_kehamilan
+Saya mau tahu cara melahirkan anak kedua dulu,4,riwayat_persalinan
+Saya ingin tahu imunisasi hamil saya yang sudah terdata,1,imunisasi_tracker
+Tolong tampilkan detail bayi lahir dengan SC,4,riwayat_persalinan
+Saya mau cek jumlah suplemen tiap kunjungan,5,riwayat_suplemen_kehamilan
+Saya ingin cek tanggal lahir bayi kedua,4,riwayat_persalinan
+"Sudah waktunya kontrol ANC rutin, mohon hadir.",3,reminder_kontrol_kehamilan
+ANC-ku selanjutnya kapan ya?,3,reminder_kontrol_kehamilan
+"Apakah pijat ibu hamil aman menjelang persalinan?,panduan_persiapan_persalinan
+Apakah yoga hamil bisa membantu mempermudah persalinan?",2,panduan_persiapan_persalinan
+Saya ingin cek tanggal lahiran semua anak,4,riwayat_persalinan
+Coba cek apakah ada komplikasi persalinan dulu,4,riwayat_persalinan
+Apa saya sudah pernah imunisasi COVID waktu hamil?,1,imunisasi_tracker
+Bagaimana cara mengelola rasa takut menjelang melahirkan?,2,panduan_persiapan_persalinan
+Periksa data lingkar lengan ibu hamil,0,anc_tracker
+Saya mau lihat riwayat pemberian vitamin C,5,riwayat_suplemen_kehamilan
+Saya mau tahu imunisasi apa saja yang sudah diberikan,1,imunisasi_tracker
+Saya mau tahu catatan vaksin TT selama hamil,1,imunisasi_tracker
+Berapa tekanan darah terakhir saya saat ANC?,0,anc_tracker
+Apa yang sebaiknya dipelajari tentang teknik mengejan?,2,panduan_persiapan_persalinan
+Tolong cek kapan kunjungan kehamilan saya berikutnya.,3,reminder_kontrol_kehamilan
+Saya mau lihat riwayat vaksin TT dan COVID-19,1,imunisasi_tracker
+Saya mau lihat riwayat suplemen yang sudah pernah diberikan,5,riwayat_suplemen_kehamilan
+Jangan sampai lupa jadwal kontrol kehamilan selanjutnya.,3,reminder_kontrol_kehamilan
+Saya ingin mengetahui imunisasi ibu hamil yang tercatat,1,imunisasi_tracker
+Coba tampilkan cara persalinan anak terakhir,4,riwayat_persalinan
+"Saya lupa kapan kontrol terakhir, jadwal berikutnya kapan?",3,reminder_kontrol_kehamilan
+Pengingat: Kunjungan ANC ibu selanjutnya hari Senin.,3,reminder_kontrol_kehamilan
+Kapan saya perlu kontrol lagi ke bidan?,3,reminder_kontrol_kehamilan
+Tolong tampilkan semua suplemen sesuai tabel ANC,5,riwayat_suplemen_kehamilan
+Tolong tampilkan catatan keluhan yang saya sampaikan,0,anc_tracker
+Ada catatan keluhan waktu ANC saya?,0,anc_tracker
+Apa ada catatan edema dari ANC?,0,anc_tracker
+Cek berat badan ibu hamil di kunjungan kemarin,0,anc_tracker
+Harap hadir untuk kontrol ANC minggu depan sesuai catatan medis.,3,reminder_kontrol_kehamilan
+Saya ingin tahu riwayat pemberian tablet Fe selama hamil,5,riwayat_suplemen_kehamilan
+Saya mau lihat catatan suplemen yang diberikan oleh dokter,5,riwayat_suplemen_kehamilan
+Saya mau lihat hasil kontrol kehamilan minggu lalu.,0,anc_tracker
+Notifikasi: Jangan lupa kontrol ANC sesuai jadwal yang sudah diberikan.,3,reminder_kontrol_kehamilan
+Harap hadir untuk kunjungan ANC pada jadwal yang sudah ditentukan.,3,reminder_kontrol_kehamilan
+Sudah waktunya untuk periksa tekanan darah dan kondisi janin di ANC selanjutnya.,3,reminder_kontrol_kehamilan
+Sudah waktunya cek tekanan darah dan kondisi janin di kunjungan ANC berikutnya.,3,reminder_kontrol_kehamilan
+Ingat untuk hadir pada pemeriksaan ANC selanjutnya.,3,reminder_kontrol_kehamilan
+Saya ingin tahu imunisasi terakhir yang diberikan,1,imunisasi_tracker

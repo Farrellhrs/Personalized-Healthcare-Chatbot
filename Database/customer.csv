@@ -1,0 +1,9 @@
+customer_id,NIK,name,preferred_language,timezone,last_login,golongan_darah,tanggal_lahir,alamat,no_hp, email, password
+CUST001,3276011234567890,"Siti Aminah","id","Asia/Jakarta","2025-08-01 08:30:00","O","1997-04-12","Jl. Merdeka No.45, Bandung","+6281234567890", babibube@gmail.com, 123456
+CUST002,3174019876543210,"Andi Pratama","id","Asia/Jakarta","2025-08-25 10:00:00","B","1990-06-15","Jl. Sudirman No.88, Jakarta","+6281398765432", andipratama@gmail.com, 123456
+CUST003,3275012233445566,"Budi Santoso","id","Asia/Jakarta","2025-08-30 14:15:00","A","1980-03-20","Jl. Melati No.12, Bekasi","+6281288887777", budisantoso@gmail.com, 123456
+CUST010,3175098765432101,"Rizky Pratama","id","Asia/Jakarta","2025-08-28 10:20:00","B","1990-06-15","Jl. Cempaka No.8, Jakarta","+6281299990000", rizkypratama@gmail.com, 123456
+CUST100,3175021234567890,"Ahmad Santoso","id","Asia/Jakarta","2025-08-31 19:30:00","A","1985-11-22","Jl. Melati No. 12, Jakarta","+6281234509876", ahmadsantoso@gmail.com, 123456
+CUST200,3175029876543210,"Budi Hartono","id","Asia/Jakarta","2025-08-31 21:15:00","B","1980-05-14","Jl. Anggrek No. 88, Jakarta","+6281287654321", budihartono@gmail.com, 123456
+CUST300,3201045678901234,"Andi Saputra","id","Asia/Jakarta","2025-08-30 20:00:00","A","1990-09-22","Jl. Kenanga No.12, Bekasi","+628139998877", andisaputra@gmail.com, 123456
+CUST500,3174098765432100,"Budi Prasetyo","id","Asia/Jakarta","2025-08-28 19:20:00","B","1983-06-14","Jl. Melati No.22, Jakarta Timur","+628567889900", budiprasetyo@gmail.com, 123456

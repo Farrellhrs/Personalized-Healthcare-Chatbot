@@ -1,0 +1,20 @@
+| Intent                      | Deskripsi                                                                                                                        | Tabel Terkait                        |
+|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| `panduan_persiapan_persalinan` | Memberikan edukasi & panduan persiapan melahirkan (persiapan fisik, mental, administrasi, dsb). Tidak langsung ambil data, lebih ke knowledge base. | — (Knowledge Base, bukan tabel DB langsung) |
+| `reminder_kontrol_kehamilan`   | Notifikasi / pengingat jadwal kontrol ANC (kunjungan kehamilan berikutnya).                                                    | **Tabel anc_kunjungan**, **Tabel kehamilan** |
+| `anc_tracker`                  | Melihat catatan pemeriksaan kehamilan (tekanan darah, BB, TFU, DJJ, keluhan, lab, dll).                                      | **Tabel anc_kunjungan**               |
+| `imunisasi_tracker`            | Melihat catatan imunisasi ibu hamil (TT, COVID-19, dsb).                                                                       | **Tabel Imunisasi Ibu Hamil**         |
+| `pertanyaan_umum_kehamilan`    | Tanya jawab umum seputar kehamilan (misal: “usia kehamilan normal berapa?”, “boleh makan durian gak?”).                        | — (Knowledge Base, bukan tabel DB langsung) |
+| `riwayat_persalinan`           | Melihat data persalinan sebelumnya (tanggal lahir, cara persalinan, berat bayi, komplikasi).                                   | **Tabel Persalinan**, **Tabel kehamilan** |
+| `riwayat_suplemen_kehamilan`   | Melihat catatan suplemen yang pernah diberikan selama ANC (Fe, Asam Folat, dll).                                               | **Tabel suplemen_ibu_hamil**, **Tabel anc_kunjungan** |
+| `riwayat_kondisi_fisik`        | Minta lihat data pemeriksaan fisik (tekanan darah, berat badan, suhu tubuh, dll.)                                              | **Tabel Historikal Kondisi Fisik**    |
+| `cek_golongan_darah`           | Tanya golongan darah customer                                                                                                   | **Tabel Customer**                    |
+| `riwayat_diagnosis`            | Minta daftar diagnosis (anemia, hipertensi, dll.)                                                                               | **Tabel Diagnosis**                   |
+| `detail_diagnosis`             | Minta detail dari diagnosis tertentu (misal: “anemia saya kapan pertama kali terdeteksi?”)                                     | **Tabel Diagnosis**                   |
+| `riwayat_preskripsi_obat`      | Lihat daftar obat yang pernah diresepkan                                                                                        | **Tabel Preskripsi Obat Terstruktur** |
+| `detail_preskripsi_obat`       | Lihat detail satu obat (jadwal, efek samping, catatan)                                                                         | **Tabel Preskripsi Obat Terstruktur** |
+| `riwayat_berobat`              | Lihat daftar kunjungan/pengobatan                                                                                              | **Tabel Riwayat Berobat Terstruktur** |
+| `jadwal_dokter`                | Tanya jadwal praktik dokter                                                                                                     | **Tabel Jadwal Dokter**               |
+| `detail_dokter`                | Tanya detail profil dokter (nama, spesialisasi, kontak)                                                                         | **Tabel Dokter**                      |
+| `hasil_lab_ringkasan`          | Minta ringkasan hasil lab terakhir                                                                                             | **Tabel Hasil Lab Terstruktur**       |
+| `hasil_lab_detail`             | Tanya detail nilai hasil tes (Hb, gula darah, dsb.)                                                                            | **Tabel Hasil Lab Terstruktur**       |
