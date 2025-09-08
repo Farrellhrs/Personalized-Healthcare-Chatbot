@@ -1,5 +1,6 @@
 # Exclude large model files and cache
 Model BERT/
+.streamlit/
 __pycache__/
 
 # Other common exclusions
